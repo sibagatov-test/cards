@@ -1,0 +1,108 @@
+[
+  {
+    "id": "required_001",
+    "word": "Required",
+    "partOfSpeech": "adjective",
+    "shortExplanation": "Needed or made necessary.",
+    "longExplanation": "Something that is required is necessary according to a particular rule or for a particular purpose. It is essential or obligatory.",
+    "links": [
+      {
+        "url": "https://en.wiktionary.org/wiki/required",
+        "type": "wiktionary",
+        "label": "Wiktionary: required"
+      }
+    ],
+    "pronunciation": "/rɪˈkwaɪərd/",
+    "examples": [
+      {
+        "sentence": "A passport is required to enter the country.",
+        "context": "Travel"
+      },
+      {
+        "sentence": "The required safety equipment must be worn at all times.",
+        "context": "Workplace"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Necessary",
+        "coreMeaning": "Needed to be done, achieved, or present; essential.",
+        "translations": {
+          "en": "Necessary",
+          "es": "Necesario",
+          "ru": "Необходимо",
+          "zh": "必要的",
+          "fr": "Nécessaire",
+          "de": "Notwendig",
+          "ja": "必要",
+          "pt": "Necessário",
+          "ar": "ضروري",
+          "hi": "आवश्यक",
+          "ko": "필수적인",
+          "it": "Necessario",
+          "nl": "Nodig",
+          "sv": "Nödvändig",
+          "no": "Nødvendig",
+          "tr": "Gerekli",
+          "pl": "Konieczny",
+          "uk": "Необхідний",
+          "cs": "Nezbytný",
+          "fa": "ضروری"
+        }
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Optional",
+        "coreMeaning": "Available to be chosen but not obligatory.",
+        "translations": {
+          "en": "Optional",
+          "es": "Opcional",
+          "ru": "Необязательный",
+          "zh": "可选的",
+          "fr": "Optionnel",
+          "de": "Optional",
+          "ja": "オプション",
+          "pt": "Opcional",
+          "ar": "اختياري",
+          "hi": "वैकल्पिक",
+          "ko": "선택적인",
+          "it": "Opzionale",
+          "nl": "Optioneel",
+          "sv": "Valfri",
+          "no": "Valgfri",
+          "tr": "İsteğe bağlı",
+          "pl": "Opcjonalny",
+          "uk": "Необов'язковий",
+          "cs": "Volitelný",
+          "fa": "اختیاری"
+        }
+      }
+    ],
+    "frequency": 9,
+    "translation": "требуемый",
+    "imageUrl": "https://images.unsplash.com/photo-1517832606299-7ae911a2a7d1",
+    "translations": {
+      "en": "Required",
+      "ru": "требуемый",
+      "es": "Requerido",
+      "zh": "必需的",
+      "fr": "Requis",
+      "de": "Erforderlich",
+      "ja": "必須",
+      "pt": "Requerido",
+      "ar": "مطلوب",
+      "hi": "आवश्यक",
+      "ko": "필수",
+      "it": "Richiesto",
+      "nl": "Vereist",
+      "sv": "Nödvändig",
+      "no": "Påkrevd",
+      "tr": "Gerekli",
+      "pl": "Wymagany",
+      "uk": "необхідний",
+      "cs": "Požadováno",
+      "fa": "لازم"
+    }
+  }
+]

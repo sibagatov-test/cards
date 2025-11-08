@@ -1,0 +1,108 @@
+[
+  {
+    "id": "labor_001",
+    "word": "Labor",
+    "partOfSpeech": "noun",
+    "shortExplanation": "Practical work which involves physical effort.",
+    "longExplanation": "Labor refers to work, especially physical work. It can also refer to the workforce, the body of people who do such work.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Labour",
+        "type": "wikipedia",
+        "label": "Wikipedia: Labour"
+      }
+    ],
+    "pronunciation": "/ˈleɪbər/",
+    "examples": [
+      {
+        "sentence": "The construction of the new bridge will require a lot of manual labor.",
+        "context": "Construction"
+      },
+      {
+        "sentence": "The company has a good relationship with organized labor.",
+        "context": "Business"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Work",
+        "coreMeaning": "Activity involving mental or physical effort done in order to achieve a purpose or result.",
+        "translations": {
+          "en": "Work",
+          "es": "Trabajo",
+          "ru": "Работа",
+          "zh": "工作",
+          "fr": "Travail",
+          "de": "Arbeit",
+          "ja": "仕事",
+          "pt": "Trabalho",
+          "ar": "عمل",
+          "hi": "काम",
+          "ko": "일",
+          "it": "Lavoro",
+          "nl": "Werk",
+          "sv": "Arbete",
+          "no": "Arbeid",
+          "tr": "İş",
+          "pl": "Praca",
+          "uk": "Робота",
+          "cs": "Práce",
+          "fa": "کار"
+        }
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Rest",
+        "coreMeaning": "Cease work or movement in order to relax, refresh oneself, or recover strength.",
+        "translations": {
+          "en": "Rest",
+          "es": "Descanso",
+          "ru": "Отдых",
+          "zh": "休息",
+          "fr": "Repos",
+          "de": "Ruhe",
+          "ja": "休息",
+          "pt": "Descanso",
+          "ar": "راحة",
+          "hi": "आराम",
+          "ko": "휴식",
+          "it": "Riposo",
+          "nl": "Rust",
+          "sv": "Vila",
+          "no": "Hvile",
+          "tr": "Dinlenme",
+          "pl": "Odpoczynek",
+          "uk": "Відпочинок",
+          "cs": "Odpočinek",
+          "fa": "استراحت"
+        }
+      }
+    ],
+    "frequency": 8,
+    "translation": "труд",
+    "imageUrl": "https://images.unsplash.com/photo-1498625219463-8a3c8e2d4c00",
+    "translations": {
+      "en": "Labor",
+      "ru": "труд",
+      "es": "Trabajo",
+      "zh": "劳动",
+      "fr": "Travail",
+      "de": "Arbeit",
+      "ja": "労働",
+      "pt": "Trabalho",
+      "ar": "عمل",
+      "hi": "श्रम",
+      "ko": "노동",
+      "it": "Lavoro",
+      "nl": "Arbeid",
+      "sv": "Arbete",
+      "no": "Arbeid",
+      "tr": "Emek",
+      "pl": "Praca",
+      "uk": "праця",
+      "cs": "Práce",
+      "fa": "کار"
+    }
+  }
+]

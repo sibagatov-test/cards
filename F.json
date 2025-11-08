@@ -1,0 +1,81 @@
+[
+  {
+    "id": "factors_001",
+    "word": "Factors",
+    "partOfSpeech": "noun",
+    "shortExplanation": "Facts which contribute to the result of something.",
+    "longExplanation": "Factors are circumstances, facts, or influences that contribute to a result or outcome. They are the elements that can affect a situation or process.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Factor_analysis",
+        "type": "wikipedia",
+        "label": "Wikipedia: Factor analysis"
+      }
+    ],
+    "pronunciation": "/ˈfæktərz/",
+    "examples": [
+      {
+        "sentence": "Price was a major factor in our decision to buy the house.",
+        "context": "Business"
+      },
+      {
+        "sentence": "There are several factors that contribute to climate change.",
+        "context": "Environment"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Influences",
+        "coreMeaning": "The capacity to have an effect on the character, development, or behavior of someone or something.",
+        "translations": {
+          "en": "Influences",
+          "es": "Influencias",
+          "ru": "Влияния",
+          "zh": "影响",
+          "fr": "Influences",
+          "de": "Einflüsse",
+          "ja": "影響",
+          "pt": "Influências",
+          "ar": "تأثيرات",
+          "hi": "प्रभाव",
+          "ko": "영향",
+          "it": "Influenze",
+          "nl": "Invloeden",
+          "sv": "Inflytanden",
+          "no": "Innflytelser",
+          "tr": "Etkiler",
+          "pl": "Wpływy",
+          "uk": "Впливи",
+          "cs": "Vlivy",
+          "fa": "تاثیرات"
+        }
+      }
+    ],
+    "antonyms": [],
+    "frequency": 9,
+    "translation": "факторы",
+    "imageUrl": "https://images.unsplash.com/photo-1599420186946-7b6fb4e297f0",
+    "translations": {
+      "en": "Factors",
+      "ru": "факторы",
+      "es": "Factores",
+      "zh": "因素",
+      "fr": "Facteurs",
+      "de": "Faktoren",
+      "ja": "要因",
+      "pt": "Fatores",
+      "ar": "عوامل",
+      "hi": "कारक",
+      "ko": "요인",
+      "it": "Fattori",
+      "nl": "Factoren",
+      "sv": "Faktorer",
+      "no": "Faktorer",
+      "tr": "Faktörler",
+      "pl": "Czynniki",
+      "uk": "фактори",
+      "cs": "Faktory",
+      "fa": "عوامل"
+    }
+  }
+]

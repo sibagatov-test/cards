@@ -1,0 +1,81 @@
+[
+  {
+    "id": "occur_001",
+    "word": "Occur",
+    "partOfSpeech": "verb",
+    "shortExplanation": "To happen, often naturally or unexpectedly.",
+    "longExplanation": "To occur means to happen or take place. It can also mean to exist or be found to be present in a place or under a particular set of conditions.",
+    "links": [
+      {
+        "url": "https://en.wiktionary.org/wiki/occur",
+        "type": "wiktionary",
+        "label": "Wiktionary: Occur"
+      }
+    ],
+    "pronunciation": "/əˈkɜːr/",
+    "examples": [
+      {
+        "sentence": "An accident involving over ten vehicles has occurred on the eastbound carriageway.",
+        "context": "News"
+      },
+      {
+        "sentence": "The disease is known to occur in climates like this.",
+        "context": "Health"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Happen",
+        "coreMeaning": "Take place; occur.",
+        "translations": {
+          "en": "Happen",
+          "es": "Suceder",
+          "ru": "Случаться",
+          "zh": "发生",
+          "fr": "Se produire",
+          "de": "Geschehen",
+          "ja": "起こる",
+          "pt": "Acontecer",
+          "ar": "يحدث",
+          "hi": "होना",
+          "ko": "일어나다",
+          "it": "Accadere",
+          "nl": "Gebeuren",
+          "sv": "Hända",
+          "no": "Skje",
+          "tr": "Olmak",
+          "pl": "Zdarzyć się",
+          "uk": "Статися",
+          "cs": "Stát se",
+          "fa": "اتفاق افتادن"
+        }
+      }
+    ],
+    "antonyms": [],
+    "frequency": 8,
+    "translation": "происходить",
+    "imageUrl": "https://images.unsplash.com/photo-1580252184144-8d4e1a7b1b01",
+    "translations": {
+      "en": "Occur",
+      "ru": "происходить",
+      "es": "Ocurrir",
+      "zh": "发生",
+      "fr": "Se produire",
+      "de": "Auftreten",
+      "ja": "発生する",
+      "pt": "Ocorrer",
+      "ar": "يحدث",
+      "hi": "घटित होना",
+      "ko": "발생하다",
+      "it": "Verificarsi",
+      "nl": "Voorkomen",
+      "sv": "Inträffa",
+      "no": "Inntreffe",
+      "tr": "Meydana gelmek",
+      "pl": "Występować",
+      "uk": "відбуватися",
+      "cs": "Vyskytnout se",
+      "fa": "رخ دادن"
+    }
+  }
+]

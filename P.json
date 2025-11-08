@@ -1,0 +1,81 @@
+[
+  {
+    "id": "percent_001",
+    "word": "Percent",
+    "partOfSpeech": "noun",
+    "shortExplanation": "In proportion to a hundred.",
+    "longExplanation": "A percentage is a number or ratio expressed as a fraction of 100. It is often denoted using the percent sign, '%'.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Percentage",
+        "type": "wikipedia",
+        "label": "Wikipedia: Percentage"
+      }
+    ],
+    "pronunciation": "/pərˈsɛnt/",
+    "examples": [
+      {
+        "sentence": "Only 40 percent of the students passed the exam.",
+        "context": "Education"
+      },
+      {
+        "sentence": "The company's profits increased by 10 percent this year.",
+        "context": "Business"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Percentage",
+        "coreMeaning": "A rate, number, or amount in each hundred.",
+        "translations": {
+          "en": "Percentage",
+          "es": "Porcentaje",
+          "ru": "Процент",
+          "zh": "百分比",
+          "fr": "Pourcentage",
+          "de": "Prozentsatz",
+          "ja": "パーセンテージ",
+          "pt": "Percentagem",
+          "ar": "نسبة مئوية",
+          "hi": "प्रतिशत",
+          "ko": "백분율",
+          "it": "Percentuale",
+          "nl": "Percentage",
+          "sv": "Procentsats",
+          "no": "Prosentandel",
+          "tr": "Yüzde",
+          "pl": "Procent",
+          "uk": "Відсоток",
+          "cs": "Procento",
+          "fa": "درصد"
+        }
+      }
+    ],
+    "antonyms": [],
+    "frequency": 10,
+    "translation": "процент",
+    "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "translations": {
+      "en": "Percent",
+      "ru": "процент",
+      "es": "Por ciento",
+      "zh": "百分之",
+      "fr": "Pour cent",
+      "de": "Prozent",
+      "ja": "パーセント",
+      "pt": "Por cento",
+      "ar": "بالمئة",
+      "hi": "प्रतिशत",
+      "ko": "퍼센트",
+      "it": "Per cento",
+      "nl": "Procent",
+      "sv": "Procent",
+      "no": "Prosent",
+      "tr": "Yüzde",
+      "pl": "Procent",
+      "uk": "відсоток",
+      "cs": "Procent",
+      "fa": "درصد"
+    }
+  }
+]

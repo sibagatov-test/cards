@@ -1,0 +1,108 @@
+[
+  {
+    "id": "section_001",
+    "word": "Section",
+    "partOfSpeech": "noun",
+    "shortExplanation": "A distinct part of something.",
+    "longExplanation": "A section is one of the parts into which something is divided. It can refer to a part of a book, a newspaper, a geographical area, or an organization.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Section_(typography)",
+        "type": "wikipedia",
+        "label": "Wikipedia: Section (typography)"
+      }
+    ],
+    "pronunciation": "/ˈsɛkʃən/",
+    "examples": [
+      {
+        "sentence": "The library has a large reference section.",
+        "context": "Education"
+      },
+      {
+        "sentence": "This section of the report deals with the financial implications.",
+        "context": "Business"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Part",
+        "coreMeaning": "An amount or piece of something.",
+        "translations": {
+          "en": "Part",
+          "es": "Parte",
+          "ru": "Часть",
+          "zh": "部分",
+          "fr": "Partie",
+          "de": "Teil",
+          "ja": "部",
+          "pt": "Parte",
+          "ar": "جزء",
+          "hi": "भाग",
+          "ko": "부분",
+          "it": "Parte",
+          "nl": "Deel",
+          "sv": "Del",
+          "no": "Del",
+          "tr": "Bölüm",
+          "pl": "Część",
+          "uk": "Частина",
+          "cs": "Část",
+          "fa": "بخش"
+        }
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Whole",
+        "coreMeaning": "A thing that is complete in itself.",
+        "translations": {
+          "en": "Whole",
+          "es": "Todo",
+          "ru": "Целое",
+          "zh": "整体",
+          "fr": "Ensemble",
+          "de": "Ganze",
+          "ja": "全体",
+          "pt": "Todo",
+          "ar": "الكل",
+          "hi": "संपूर्ण",
+          "ko": "전체",
+          "it": "Intero",
+          "nl": "Geheel",
+          "sv": "Hela",
+          "no": "Hele",
+          "tr": "Bütün",
+          "pl": "Całość",
+          "uk": "Ціле",
+          "cs": "Celek",
+          "fa": "کل"
+        }
+      }
+    ],
+    "frequency": 9,
+    "translation": "раздел",
+    "imageUrl": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8",
+    "translations": {
+      "en": "Section",
+      "ru": "раздел",
+      "es": "Sección",
+      "zh": "部分",
+      "fr": "Section",
+      "de": "Abschnitt",
+      "ja": "セクション",
+      "pt": "Seção",
+      "ar": "قسم",
+      "hi": "अनुभाग",
+      "ko": "섹션",
+      "it": "Sezione",
+      "nl": "Sectie",
+      "sv": "Sektion",
+      "no": "Seksjon",
+      "tr": "Bölüm",
+      "pl": "Sekcja",
+      "uk": "розділ",
+      "cs": "Sekce",
+      "fa": "بخش"
+    }
+  }
+]

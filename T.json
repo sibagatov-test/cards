@@ -1,0 +1,108 @@
+[
+  {
+    "id": "theory_001",
+    "word": "Theory",
+    "partOfSpeech": "noun",
+    "shortExplanation": "An organized system of accepted knowledge.",
+    "longExplanation": "A theory is a well-substantiated explanation of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experiment. Such fact-supported theories are not 'guesses' but reliable accounts of the real world.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Theory",
+        "type": "wikipedia",
+        "label": "Wikipedia: Theory"
+      }
+    ],
+    "pronunciation": "/ˈθɪəri/",
+    "examples": [
+      {
+        "sentence": "Einstein's theory of relativity has been proven by numerous experiments.",
+        "context": "Science"
+      },
+      {
+        "sentence": "There are many theories about the origin of the universe.",
+        "context": "Cosmology"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Hypothesis",
+        "coreMeaning": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+        "translations": {
+          "en": "Hypothesis",
+          "es": "Hipótesis",
+          "ru": "Гипотеза",
+          "zh": "假设",
+          "fr": "Hypothèse",
+          "de": "Hypothese",
+          "ja": "仮説",
+          "pt": "Hipótese",
+          "ar": "فرضية",
+          "hi": "परिकल्पना",
+          "ko": "가설",
+          "it": "Ipotesi",
+          "nl": "Hypothese",
+          "sv": "Hypotes",
+          "no": "Hypotese",
+          "tr": "Hipotez",
+          "pl": "Hipoteza",
+          "uk": "Гіпотеза",
+          "cs": "Hypotéza",
+          "fa": "فرضیه"
+        }
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Fact",
+        "coreMeaning": "A thing that is known or proved to be true.",
+        "translations": {
+          "en": "Fact",
+          "es": "Hecho",
+          "ru": "Факт",
+          "zh": "事实",
+          "fr": "Fait",
+          "de": "Tatsache",
+          "ja": "事実",
+          "pt": "Fato",
+          "ar": "حقيقة",
+          "hi": "तथ्य",
+          "ko": "사실",
+          "it": "Fatto",
+          "nl": "Feit",
+          "sv": "Fakta",
+          "no": "Fakta",
+          "tr": "Gerçek",
+          "pl": "Fakt",
+          "uk": "Факт",
+          "cs": "Fakt",
+          "fa": "واقعیت"
+        }
+      }
+    ],
+    "frequency": 9,
+    "translation": "теория",
+    "imageUrl": "https://images.unsplash.com/photo-1532187643623-8f6975a6e878",
+    "translations": {
+      "en": "Theory",
+      "ru": "теория",
+      "es": "Teoría",
+      "zh": "理论",
+      "fr": "Théorie",
+      "de": "Theorie",
+      "ja": "理論",
+      "pt": "Teoria",
+      "ar": "نظرية",
+      "hi": "सिद्धांत",
+      "ko": "이론",
+      "it": "Teoria",
+      "nl": "Theorie",
+      "sv": "Teori",
+      "no": "Teori",
+      "tr": "Teori",
+      "pl": "Teoria",
+      "uk": "теорія",
+      "cs": "Teorie",
+      "fa": "نظریه"
+    }
+  }
+]

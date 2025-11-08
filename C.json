@@ -1,0 +1,108 @@
+[
+  {
+    "id": "concept_001",
+    "word": "Concept",
+    "partOfSpeech": "noun",
+    "shortExplanation": "An abstract or general idea.",
+    "longExplanation": "A concept is an abstract idea representing the fundamental characteristics of what it represents. Concepts are used to organize knowledge and understand the world.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Concept",
+        "type": "wikipedia",
+        "label": "Wikipedia: Concept"
+      }
+    ],
+    "pronunciation": "/ˈkɒnsɛpt/",
+    "examples": [
+      {
+        "sentence": "The concept of democracy is based on the idea of popular sovereignty.",
+        "context": "Politics"
+      },
+      {
+        "sentence": "She struggled to grasp the concept of infinity.",
+        "context": "Mathematics"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Idea",
+        "coreMeaning": "A thought or suggestion as to a possible course of action.",
+        "translations": {
+          "en": "Idea",
+          "es": "Idea",
+          "ru": "Идея",
+          "zh": "理念",
+          "fr": "Idée",
+          "de": "Idee",
+          "ja": "アイデア",
+          "pt": "Idéia",
+          "ar": "فكرة",
+          "hi": "विचार",
+          "ko": "아이디어",
+          "it": "Idea",
+          "nl": "Idee",
+          "sv": "Idé",
+          "no": "Idé",
+          "tr": "Fikir",
+          "pl": "Pomysł",
+          "uk": "Ідея",
+          "cs": "Nápad",
+          "fa": "ایده"
+        }
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Reality",
+        "coreMeaning": "The state of things as they actually exist, as opposed to an idealistic or notional idea of them.",
+        "translations": {
+          "en": "Reality",
+          "es": "Realidad",
+          "ru": "Реальность",
+          "zh": "现实",
+          "fr": "Réalité",
+          "de": "Realität",
+          "ja": "現実",
+          "pt": "Realidade",
+          "ar": "واقع",
+          "hi": "यथार्थ",
+          "ko": "현실",
+          "it": "Realtà",
+          "nl": "Realiteit",
+          "sv": "Verklighet",
+          "no": "Virkelighet",
+          "tr": "Gerçeklik",
+          "pl": "Rzeczywistość",
+          "uk": "Реальність",
+          "cs": "Realita",
+          "fa": "واقعیت"
+        }
+      }
+    ],
+    "frequency": 9,
+    "translation": "концепция",
+    "imageUrl": "https://images.unsplash.com/photo-1516131206008-dd96684238e8",
+    "translations": {
+      "en": "Concept",
+      "ru": "концепция",
+      "es": "Concepto",
+      "zh": "概念",
+      "fr": "Concept",
+      "de": "Konzept",
+      "ja": "概念",
+      "pt": "Conceito",
+      "ar": "مفهوم",
+      "hi": "अवधारणा",
+      "ko": "개념",
+      "it": "Concetto",
+      "nl": "Concept",
+      "sv": "Koncept",
+      "no": "Konsept",
+      "tr": "Kavram",
+      "pl": "Koncepcja",
+      "uk": "концепція",
+      "cs": "Pojem",
+      "fa": "مفهوم"
+    }
+  }
+]

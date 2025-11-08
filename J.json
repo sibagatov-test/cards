@@ -1,0 +1,81 @@
+[
+  {
+    "id": "journal_001",
+    "word": "Journal",
+    "partOfSpeech": "noun",
+    "shortExplanation": "A publication with a focus on a particular subject.",
+    "longExplanation": "A journal is a newspaper or magazine that deals with a particular subject or professional activity. It can also refer to a personal diary or a record of events.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Journal",
+        "type": "wikipedia",
+        "label": "Wikipedia: Journal"
+      }
+    ],
+    "pronunciation": "/ˈdʒɜːrnəl/",
+    "examples": [
+      {
+        "sentence": "She published her research in a prestigious scientific journal.",
+        "context": "Academia"
+      },
+      {
+        "sentence": "He kept a journal of his travels through Asia.",
+        "context": "Personal"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Periodical",
+        "coreMeaning": "A magazine or newspaper published at regular intervals.",
+        "translations": {
+          "en": "Periodical",
+          "es": "Publicación periódica",
+          "ru": "Периодическое издание",
+          "zh": "期刊",
+          "fr": "Périodique",
+          "de": "Zeitschrift",
+          "ja": "定期刊行物",
+          "pt": "Periódico",
+          "ar": "دورية",
+          "hi": "पत्रिका",
+          "ko": "정기 간행물",
+          "it": "Periodico",
+          "nl": "Tijdschrift",
+          "sv": "Tidskrift",
+          "no": "Tidsskrift",
+          "tr": "Süreli yayın",
+          "pl": "Czasopismo",
+          "uk": "Періодичне видання",
+          "cs": "Periodikum",
+          "fa": "نشریه"
+        }
+      }
+    ],
+    "antonyms": [],
+    "frequency": 8,
+    "translation": "журнал",
+    "imageUrl": "https://images.unsplash.com/photo-1583366938362-237f3737a347",
+    "translations": {
+      "en": "Journal",
+      "ru": "журнал",
+      "es": "Diario",
+      "zh": "杂志",
+      "fr": "Journal",
+      "de": "Zeitschrift",
+      "ja": "ジャーナル",
+      "pt": "Jornal",
+      "ar": "مجلة",
+      "hi": "पत्रिका",
+      "ko": "저널",
+      "it": "Rivista",
+      "nl": "Tijdschrift",
+      "sv": "Journal",
+      "no": "Journal",
+      "tr": "Dergi",
+      "pl": "Dziennik",
+      "uk": "журнал",
+      "cs": "Časopis",
+      "fa": "مجله"
+    }
+  }
+]

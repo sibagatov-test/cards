@@ -1,0 +1,108 @@
+[
+  {
+    "id": "benefit_001",
+    "word": "Benefit",
+    "partOfSpeech": "noun",
+    "shortExplanation": "An advantage or good effect.",
+    "longExplanation": "A benefit is a helpful or good effect, or something intended to help. It can refer to an advantage gained from something, such as health benefits from exercise, or to payments made by an institution, like unemployment benefits.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Benefit_(social_welfare)",
+        "type": "wikipedia",
+        "label": "Wikipedia: Benefit (social welfare)"
+      }
+    ],
+    "pronunciation": "/ˈbɛnɪfɪt/",
+    "examples": [
+      {
+        "sentence": "The new park will be a great benefit to the whole community.",
+        "context": "Community"
+      },
+      {
+        "sentence": "One of the benefits of working from home is the flexible schedule.",
+        "context": "Work"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Advantage",
+        "coreMeaning": "A condition or circumstance that puts one in a favorable or superior position.",
+        "translations": {
+          "en": "Advantage",
+          "es": "Ventaja",
+          "ru": "Преимущество",
+          "zh": "优势",
+          "fr": "Avantage",
+          "de": "Vorteil",
+          "ja": "利点",
+          "pt": "Vantagem",
+          "ar": "ميزة",
+          "hi": "लाभ",
+          "ko": "이점",
+          "it": "Vantaggio",
+          "nl": "Voordeel",
+          "sv": "Fördel",
+          "no": "Fordel",
+          "tr": "Avantaj",
+          "pl": "Zaleta",
+          "uk": "Перевага",
+          "cs": "Výhoda",
+          "fa": "مزیت"
+        }
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Disadvantage",
+        "coreMeaning": "An unfavorable circumstance or condition that reduces the chances of success or effectiveness.",
+        "translations": {
+          "en": "Disadvantage",
+          "es": "Desventaja",
+          "ru": "Недостаток",
+          "zh": "缺点",
+          "fr": "Inconvénient",
+          "de": "Nachteil",
+          "ja": "不利な点",
+          "pt": "Desvantagem",
+          "ar": "عيب",
+          "hi": "नुकसान",
+          "ko": "불리",
+          "it": "Svantaggio",
+          "nl": "Nadeel",
+          "sv": "Nackdel",
+          "no": "Ulempe",
+          "tr": "Dezavantaj",
+          "pl": "Wada",
+          "uk": "Недолік",
+          "cs": "Nevýhoda",
+          "fa": "ضرر"
+        }
+      }
+    ],
+    "frequency": 9,
+    "translation": "выгода",
+    "imageUrl": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f",
+    "translations": {
+      "en": "Benefit",
+      "ru": "выгода",
+      "es": "Beneficio",
+      "zh": "利益",
+      "fr": "Bénéfice",
+      "de": "Vorteil",
+      "ja": "利益",
+      "pt": "Benefício",
+      "ar": "فائدة",
+      "hi": "लाभ",
+      "ko": "혜택",
+      "it": "Beneficio",
+      "nl": "Voordeel",
+      "sv": "Förmån",
+      "no": "Fordel",
+      "tr": "Fayda",
+      "pl": "Korzyść",
+      "uk": "вигода",
+      "cs": "Přínos",
+      "fa": "سود"
+    }
+  }
+]

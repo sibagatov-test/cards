@@ -1,0 +1,108 @@
+[
+  {
+    "id": "identified_001",
+    "word": "Identified",
+    "partOfSpeech": "verb",
+    "shortExplanation": "Recognized something by saying what it is.",
+    "longExplanation": "To identify something is to recognize or establish as being a particular person or thing; to determine the identity of. It can also mean to associate someone or something closely with a particular quality or group.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Identification",
+        "type": "wikipedia",
+        "label": "Wikipedia: Identification"
+      }
+    ],
+    "pronunciation": "/aɪˈdɛntɪfaɪd/",
+    "examples": [
+      {
+        "sentence": "The witness identified the suspect in a police lineup.",
+        "context": "Law"
+      },
+      {
+        "sentence": "Scientists have identified a new species of frog in the rainforest.",
+        "context": "Science"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Recognized",
+        "coreMeaning": "Acknowledged the existence, validity, or legality of.",
+        "translations": {
+          "en": "Recognized",
+          "es": "Reconocido",
+          "ru": "Признанный",
+          "zh": "公认的",
+          "fr": "Reconnu",
+          "de": "Anerkannt",
+          "ja": "認識された",
+          "pt": "Reconhecido",
+          "ar": "معترف به",
+          "hi": "मान्यता प्राप्त",
+          "ko": "인정된",
+          "it": "Riconosciuto",
+          "nl": "Herkend",
+          "sv": "Erkänd",
+          "no": "Anerkjent",
+          "tr": "Tanınan",
+          "pl": "Uznany",
+          "uk": "Визнаний",
+          "cs": "Uznávaný",
+          "fa": "شناخته شده"
+        }
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Unidentified",
+        "coreMeaning": "Not recognized or identified.",
+        "translations": {
+          "en": "Unidentified",
+          "es": "No identificado",
+          "ru": "Неопознанный",
+          "zh": "身份不明",
+          "fr": "Non identifié",
+          "de": "Unidentifiziert",
+          "ja": "未確認の",
+          "pt": "Não identificado",
+          "ar": "مجهول الهوية",
+          "hi": "अज्ञात",
+          "ko": "정체불명의",
+          "it": "Non identificato",
+          "nl": "Ongeïdentificeerd",
+          "sv": "Oidentifierad",
+          "no": "Uidentifisert",
+          "tr": "Tanımlanmamış",
+          "pl": "Niezidentyfikowany",
+          "uk": "Непізнаний",
+          "cs": "Neidentifikovaný",
+          "fa": "ناشناس"
+        }
+      }
+    ],
+    "frequency": 9,
+    "translation": "идентифицированный",
+    "imageUrl": "https://images.unsplash.com/photo-1521791136064-7986c2920216",
+    "translations": {
+      "en": "Identified",
+      "ru": "идентифицированный",
+      "es": "Identificado",
+      "zh": "已识别",
+      "fr": "Identifié",
+      "de": "Identifiziert",
+      "ja": "特定された",
+      "pt": "Identificado",
+      "ar": "محدد",
+      "hi": "पहचाना हुआ",
+      "ko": "확인된",
+      "it": "Identificato",
+      "nl": "Geïdentificeerd",
+      "sv": "Identifierad",
+      "no": "Identifisert",
+      "tr": "Tanımlanmış",
+      "pl": "Zidentyfikowany",
+      "uk": "ідентифікований",
+      "cs": "Identifikováno",
+      "fa": "شناسایی شده"
+    }
+  }
+]

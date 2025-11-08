@@ -1,0 +1,81 @@
+[
+  {
+    "id": "undertaken_001",
+    "word": "Undertaken",
+    "partOfSpeech": "verb",
+    "shortExplanation": "Done or committed to do with responsibility or effort.",
+    "longExplanation": "To undertake a task or project is to commit oneself to and begin it; to take on. It implies a formal commitment and a sense of responsibility.",
+    "links": [
+      {
+        "url": "https://en.wiktionary.org/wiki/undertake",
+        "type": "wiktionary",
+        "label": "Wiktionary: undertake"
+      }
+    ],
+    "pronunciation": "/ˌʌndərˈteɪkən/",
+    "examples": [
+      {
+        "sentence": "She has undertaken the difficult task of reorganizing the department.",
+        "context": "Business"
+      },
+      {
+        "sentence": "The government has undertaken a major review of its policies.",
+        "context": "Politics"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Embarked upon",
+        "coreMeaning": "Begun (a course of action).",
+        "translations": {
+          "en": "Embarked upon",
+          "es": "Emprendido",
+          "ru": "Предпринятый",
+          "zh": "着手进行",
+          "fr": "Entrepris",
+          "de": "In Angriff genommen",
+          "ja": "着手した",
+          "pt": "Empreendido",
+          "ar": "شرع في",
+          "hi": "आरंभ किया",
+          "ko": "착수했다",
+          "it": "Intrapreso",
+          "nl": "Aangevangen",
+          "sv": "Påbörjat",
+          "no": "Påbegynt",
+          "tr": "Üstlenilen",
+          "pl": "Podjęty",
+          "uk": "Розпочатий",
+          "cs": "Zahájeno",
+          "fa": "آغاز شده"
+        }
+      }
+    ],
+    "antonyms": [],
+    "frequency": 7,
+    "translation": "предпринятый",
+    "imageUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952",
+    "translations": {
+      "en": "Undertaken",
+      "ru": "предпринятый",
+      "es": "Emprendido",
+      "zh": "承担",
+      "fr": "Entrepris",
+      "de": "Unternommen",
+      "ja": "引き受けた",
+      "pt": "Empreendido",
+      "ar": "المضطلع به",
+      "hi": "किया हुआ",
+      "ko": "착수 한",
+      "it": "Intrapreso",
+      "nl": "Ondernomen",
+      "sv": "Genomfört",
+      "no": "Gjennomført",
+      "tr": "Üstlenilen",
+      "pl": "Podjęte",
+      "uk": "здійснений",
+      "cs": "Provedeno",
+      "fa": "انجام شده"
+    }
+  }
+]

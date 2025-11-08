@@ -1,0 +1,108 @@
+[
+  {
+    "id": "analysis_001",
+    "word": "Analysis",
+    "partOfSpeech": "noun",
+    "shortExplanation": "A detailed investigation of the parts of something.",
+    "longExplanation": "Analysis is the process of breaking a complex topic or substance into smaller parts in order to gain a better understanding of it. It involves a detailed examination of the elements or structure of something.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Analysis",
+        "type": "wikipedia",
+        "label": "Wikipedia: Analysis"
+      }
+    ],
+    "pronunciation": "/əˈnæləsɪs/",
+    "examples": [
+      {
+        "sentence": "The lab conducted a detailed analysis of the water sample.",
+        "context": "Science"
+      },
+      {
+        "sentence": "Her analysis of the book was insightful and well-researched.",
+        "context": "Literature"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Examination",
+        "coreMeaning": "A detailed inspection or study.",
+        "translations": {
+          "en": "Examination",
+          "es": "Examen",
+          "ru": "Обследование",
+          "zh": "检查",
+          "fr": "Examen",
+          "de": "Untersuchung",
+          "ja": "検査",
+          "pt": "Exame",
+          "ar": "فحص",
+          "hi": "परीक्षा",
+          "ko": "검사",
+          "it": "Esame",
+          "nl": "Onderzoek",
+          "sv": "Undersökning",
+          "no": "Undersøkelse",
+          "tr": "İnceleme",
+          "pl": "Badanie",
+          "uk": "Обстеження",
+          "cs": "Vyšetření",
+          "fa": "بررسی"
+        }
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Synthesis",
+        "coreMeaning": "The combination of ideas to form a theory or system.",
+        "translations": {
+          "en": "Synthesis",
+          "es": "Síntesis",
+          "ru": "Синтез",
+          "zh": "合成",
+          "fr": "Synthèse",
+          "de": "Synthese",
+          "ja": "合成",
+          "pt": "Síntese",
+          "ar": "تركيب",
+          "hi": "संश्लेषण",
+          "ko": "합성",
+          "it": "Sintesi",
+          "nl": "Synthese",
+          "sv": "Syntes",
+          "no": "Syntese",
+          "tr": "Sentez",
+          "pl": "Synteza",
+          "uk": "Синтез",
+          "cs": "Syntéza",
+          "fa": "سنتز"
+        }
+      }
+    ],
+    "frequency": 8,
+    "translation": "анализ",
+    "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "translations": {
+      "en": "Analysis",
+      "ru": "анализ",
+      "es": "Análisis",
+      "zh": "分析",
+      "fr": "Analyse",
+      "de": "Analyse",
+      "ja": "分析",
+      "pt": "Análise",
+      "ar": "تحليل",
+      "hi": "विश्लेषण",
+      "ko": "분석",
+      "it": "Analisi",
+      "nl": "Analyse",
+      "sv": "Analys",
+      "no": "Analyse",
+      "tr": "Analiz",
+      "pl": "Analiza",
+      "uk": "аналіз",
+      "cs": "Analýza",
+      "fa": "تحلیل"
+    }
+  }
+]

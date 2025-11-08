@@ -1,0 +1,108 @@
+[
+  {
+    "id": "major_001",
+    "word": "Major",
+    "partOfSpeech": "adjective",
+    "shortExplanation": "More important than others of the same type.",
+    "longExplanation": "Major means more important, bigger, or more serious than others of the same type. It can also refer to a specific subject of study in college.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Major",
+        "type": "wikipedia",
+        "label": "Wikipedia: Major"
+      }
+    ],
+    "pronunciation": "/ˈmeɪdʒər/",
+    "examples": [
+      {
+        "sentence": "The storm caused major damage to the city.",
+        "context": "Environment"
+      },
+      {
+        "sentence": "He was a major figure in the history of science.",
+        "context": "History"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Significant",
+        "coreMeaning": "Sufficiently great or important to be worthy of attention; noteworthy.",
+        "translations": {
+          "en": "Significant",
+          "es": "Significativo",
+          "ru": "Значительный",
+          "zh": "重要的",
+          "fr": "Significatif",
+          "de": "Bedeutend",
+          "ja": "重要",
+          "pt": "Significativo",
+          "ar": "مهم",
+          "hi": "महत्वपूर्ण",
+          "ko": "중요한",
+          "it": "Significativo",
+          "nl": "Aanzienlijk",
+          "sv": "Betydande",
+          "no": "Betydelig",
+          "tr": "Önemli",
+          "pl": "Znaczący",
+          "uk": "Значний",
+          "cs": "Významný",
+          "fa": "قابل توجه"
+        }
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Minor",
+        "coreMeaning": "Lesser in importance, seriousness, or significance.",
+        "translations": {
+          "en": "Minor",
+          "es": "Menor",
+          "ru": "Незначительный",
+          "zh": "次要的",
+          "fr": "Mineur",
+          "de": "Geringfügig",
+          "ja": "マイナー",
+          "pt": "Menor",
+          "ar": "ثانوي",
+          "hi": "छोटा",
+          "ko": "사소한",
+          "it": "Minore",
+          "nl": "Klein",
+          "sv": "Mindre",
+          "no": "Mindre",
+          "tr": "Küçük",
+          "pl": "Mniejszy",
+          "uk": "Незначний",
+          "cs": "Menší",
+          "fa": "جزئی"
+        }
+      }
+    ],
+    "frequency": 9,
+    "translation": "главный",
+    "imageUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+    "translations": {
+      "en": "Major",
+      "ru": "главный",
+      "es": "Mayor",
+      "zh": "主要的",
+      "fr": "Majeur",
+      "de": "Haupt",
+      "ja": "主要な",
+      "pt": "Principal",
+      "ar": "رئيسي",
+      "hi": "प्रमुख",
+      "ko": "주요한",
+      "it": "Maggiore",
+      "nl": "Groot",
+      "sv": "Större",
+      "no": "Større",
+      "tr": "Büyük",
+      "pl": "Główny",
+      "uk": "головний",
+      "cs": "Hlavní",
+      "fa": "عمده"
+    }
+  }
+]

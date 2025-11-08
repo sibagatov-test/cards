@@ -1,0 +1,108 @@
+[
+  {
+    "id": "goals_001",
+    "word": "Goals",
+    "partOfSpeech": "noun",
+    "shortExplanation": "Aims, purposes or targets.",
+    "longExplanation": "Goals are ideas of the future or desired results that a person or a group of people envisions, plans and commits to achieve. A goal is roughly similar to a purpose or aim, the anticipated result which guides reaction, or an end, which is an object, either a physical object or an abstract object, that has intrinsic value.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Goal",
+        "type": "wikipedia",
+        "label": "Wikipedia: Goal"
+      }
+    ],
+    "pronunciation": "/ɡoʊlz/",
+    "examples": [
+      {
+        "sentence": "Setting clear goals is the first step to achieving them.",
+        "context": "Personal Development"
+      },
+      {
+        "sentence": "The main goal of the project is to improve efficiency.",
+        "context": "Business"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Aims",
+        "coreMeaning": "A purpose or intention; a desired outcome.",
+        "translations": {
+          "en": "Aims",
+          "es": "Objetivos",
+          "ru": "Цели",
+          "zh": "目标",
+          "fr": "Buts",
+          "de": "Ziele",
+          "ja": "目的",
+          "pt": "Metas",
+          "ar": "أهداف",
+          "hi": "लक्ष्य",
+          "ko": "목표",
+          "it": "Obiettivi",
+          "nl": "Doelen",
+          "sv": "Mål",
+          "no": "Mål",
+          "tr": "Amaçlar",
+          "pl": "Cele",
+          "uk": "Цілі",
+          "cs": "Cíle",
+          "fa": "اهداف"
+        }
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Aimlessness",
+        "coreMeaning": "The quality of having no definite purpose or plan.",
+        "translations": {
+          "en": "Aimlessness",
+          "es": "Falta de rumbo",
+          "ru": "Бесцельность",
+          "zh": "漫无目的",
+          "fr": "Manque de but",
+          "de": "Ziellosigkeit",
+          "ja": "目的のなさ",
+          "pt": "Falta de objetivo",
+          "ar": "بلا هدف",
+          "hi": "उद्देश्यहीनता",
+          "ko": "목표 없음",
+          "it": "Mancanza di scopo",
+          "nl": "Doelloosheid",
+          "sv": "Mållöshet",
+          "no": "Målløshet",
+          "tr": "Amaçsızlık",
+          "pl": "Bezcelowość",
+          "uk": "Безцільність",
+          "cs": "Bezcílnost",
+          "fa": "بی هدفی"
+        }
+      }
+    ],
+    "frequency": 9,
+    "translation": "цели",
+    "imageUrl": "https://images.unsplash.com/photo-1557804506-669a67965ba0",
+    "translations": {
+      "en": "Goals",
+      "ru": "цели",
+      "es": "Metas",
+      "zh": "目标",
+      "fr": "Objectifs",
+      "de": "Ziele",
+      "ja": "目標",
+      "pt": "Metas",
+      "ar": "أهداف",
+      "hi": "लक्ष्य",
+      "ko": "목표",
+      "it": "Obiettivi",
+      "nl": "Doelen",
+      "sv": "Mål",
+      "no": "Mål",
+      "tr": "Hedefler",
+      "pl": "Cele",
+      "uk": "цілі",
+      "cs": "Cíle",
+      "fa": "اهداف"
+    }
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "id": "normal_001",
+    "word": "Normal",
+    "partOfSpeech": "adjective",
+    "shortExplanation": "Ordinary or usual.",
+    "longExplanation": "Conforming to a standard; usual, typical, or expected. In mathematics, it has a more specific meaning relating to a normal distribution or a line perpendicular to a surface.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Normal",
+        "type": "wikipedia",
+        "label": "Wikipedia: Normal"
+      }
+    ],
+    "pronunciation": "/ˈnɔːrməl/",
+    "examples": [
+      {
+        "sentence": "It's normal to feel a little nervous before an exam.",
+        "context": "Psychology"
+      },
+      {
+        "sentence": "The train service will be back to normal tomorrow.",
+        "context": "Transportation"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Usual",
+        "coreMeaning": "Habitually or typically occurring or done.",
+        "translations": {
+          "en": "Usual",
+          "es": "Habitual",
+          "ru": "Обычный",
+          "zh": "通常的",
+          "fr": "Habituel",
+          "de": "Üblich",
+          "ja": "いつもの",
+          "pt": "Usual",
+          "ar": "عادي",
+          "hi": "सामान्य",
+          "ko": "평소의",
+          "it": "Solito",
+          "nl": "Gebruikelijk",
+          "sv": "Vanlig",
+          "no": "Vanlig",
+          "tr": "Olağan",
+          "pl": "Zwykły",
+          "uk": "Звичайний",
+          "cs": "Obvyklý",
+          "fa": "معمول"
+        }
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Abnormal",
+        "coreMeaning": "Deviating from what is normal or usual, typically in a way that is undesirable or worrying.",
+        "translations": {
+          "en": "Abnormal",
+          "es": "Anormal",
+          "ru": "Аномальный",
+          "zh": "异常的",
+          "fr": "Anormal",
+          "de": "Abnormal",
+          "ja": "異常な",
+          "pt": "Anormal",
+          "ar": "غير طبيعي",
+          "hi": "असामान्य",
+          "ko": "비정상적인",
+          "it": "Anormale",
+          "nl": "Abnormaal",
+          "sv": "Onormal",
+          "no": "Unormal",
+          "tr": "Anormal",
+          "pl": "Nienormalny",
+          "uk": "Аномальний",
+          "cs": "Abnormální",
+          "fa": "غیرطبیعی"
+        }
+      }
+    ],
+    "frequency": 9,
+    "translation": "нормальный",
+    "imageUrl": "https://images.unsplash.com/photo-1518623489690-a65c9d821362",
+    "translations": {
+      "en": "Normal",
+      "ru": "нормальный",
+      "es": "Normal",
+      "zh": "正常的",
+      "fr": "Normal",
+      "de": "Normal",
+      "ja": "正常",
+      "pt": "Normal",
+      "ar": "طبيعي",
+      "hi": "सामान्य",
+      "ko": "정상",
+      "it": "Normale",
+      "nl": "Normaal",
+      "sv": "Normal",
+      "no": "Normal",
+      "tr": "Normal",
+      "pl": "Normalny",
+      "uk": "нормальний",
+      "cs": "Normální",
+      "fa": "نرمال"
+    }
+  }
+]

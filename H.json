@@ -1,0 +1,81 @@
+[
+  {
+    "id": "hence_001",
+    "word": "Hence",
+    "partOfSpeech": "adverb",
+    "shortExplanation": "Therefore, this is the reason why.",
+    "longExplanation": "Hence is used to indicate a consequence or conclusion. It can also be used to mean 'from now' (e.g., 'two years hence').",
+    "links": [
+      {
+        "url": "https://en.wiktionary.org/wiki/hence",
+        "type": "wiktionary",
+        "label": "Wiktionary: Hence"
+      }
+    ],
+    "pronunciation": "/hɛns/",
+    "examples": [
+      {
+        "sentence": "The company's profits have been falling; hence, we need to reduce costs.",
+        "context": "Business"
+      },
+      {
+        "sentence": "He was a newcomer and hence had no connections in the city.",
+        "context": "Social"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Therefore",
+        "coreMeaning": "For that reason; consequently.",
+        "translations": {
+          "en": "Therefore",
+          "es": "Por lo tanto",
+          "ru": "Следовательно",
+          "zh": "所以",
+          "fr": "Donc",
+          "de": "Deshalb",
+          "ja": "したがって",
+          "pt": "Portanto",
+          "ar": "لذلك",
+          "hi": "इसलिए",
+          "ko": "그러므로",
+          "it": "Perciò",
+          "nl": "Daarom",
+          "sv": "Därför",
+          "no": "Derfor",
+          "tr": "Bu yüzden",
+          "pl": "Dlatego",
+          "uk": "Тому",
+          "cs": "Proto",
+          "fa": "بنابراین"
+        }
+      }
+    ],
+    "antonyms": [],
+    "frequency": 7,
+    "translation": "следовательно",
+    "imageUrl": "https://images.unsplash.com/photo-1542382257-80deda0279c1",
+    "translations": {
+      "en": "Hence",
+      "ru": "следовательно",
+      "es": "Por lo tanto",
+      "zh": "因此",
+      "fr": "D'où",
+      "de": "Daher",
+      "ja": "それゆえに",
+      "pt": "Daí",
+      "ar": "لذلك",
+      "hi": "अत",
+      "ko": "그러므로",
+      "it": "Quindi",
+      "nl": "Vandaar",
+      "sv": "Därav",
+      "no": "Derfor",
+      "tr": "Bu nedenle",
+      "pl": "Stąd",
+      "uk": "отже",
+      "cs": "Tudíž",
+      "fa": "از این رو"
+    }
+  }
+]

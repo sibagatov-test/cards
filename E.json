@@ -1,0 +1,108 @@
+[
+  {
+    "id": "economic_001",
+    "word": "Economic",
+    "partOfSpeech": "adjective",
+    "shortExplanation": "Relating to money or trade.",
+    "longExplanation": "Economic relates to the economy, which is the system of trade and industry by which the wealth of a country or region is made and used. It can also refer to something that is profitable or justified in terms of profitability.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Economic",
+        "type": "wikipedia",
+        "label": "Wikipedia: Economic"
+      }
+    ],
+    "pronunciation": "/ˌiːkəˈnɒmɪk/",
+    "examples": [
+      {
+        "sentence": "The country is facing a period of slow economic growth.",
+        "context": "Finance"
+      },
+      {
+        "sentence": "From an economic standpoint, the project is not feasible.",
+        "context": "Business"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Financial",
+        "coreMeaning": "Relating to finance.",
+        "translations": {
+          "en": "Financial",
+          "es": "Financiero",
+          "ru": "Финансовый",
+          "zh": "金融的",
+          "fr": "Financier",
+          "de": "Finanziell",
+          "ja": "財政の",
+          "pt": "Financeiro",
+          "ar": "مالي",
+          "hi": "वित्तीय",
+          "ko": "재정의",
+          "it": "Finanziario",
+          "nl": "Financieel",
+          "sv": "Finansiell",
+          "no": "Finansiell",
+          "tr": "Finansal",
+          "pl": "Finansowy",
+          "uk": "Фінансовий",
+          "cs": "Finanční",
+          "fa": "مالی"
+        }
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Uneconomic",
+        "coreMeaning": "Not profitable or efficient.",
+        "translations": {
+          "en": "Uneconomic",
+          "es": "Antieconómico",
+          "ru": "Неэкономичный",
+          "zh": "不经济的",
+          "fr": "Anti-économique",
+          "de": "Unwirtschaftlich",
+          "ja": "不経済な",
+          "pt": "Antieconômico",
+          "ar": "غير اقتصادي",
+          "hi": "अलाभकारी",
+          "ko": "비경제적인",
+          "it": "Antieconomico",
+          "nl": "Oneconomisch",
+          "sv": "Oekonomisk",
+          "no": "Uøkonomisk",
+          "tr": "Ekonomik olmayan",
+          "pl": "Nieekonomiczny",
+          "uk": "Неекономічний",
+          "cs": "Neekonomický",
+          "fa": "غیراقتصادی"
+        }
+      }
+    ],
+    "frequency": 9,
+    "translation": "экономический",
+    "imageUrl": "https://images.unsplash.com/photo-1606857521015-7f9fcf423740",
+    "translations": {
+      "en": "Economic",
+      "ru": "экономический",
+      "es": "Económico",
+      "zh": "经济的",
+      "fr": "Économique",
+      "de": "Wirtschaftlich",
+      "ja": "経済の",
+      "pt": "Econômico",
+      "ar": "اقتصادي",
+      "hi": "आर्थिक",
+      "ko": "경제의",
+      "it": "Economico",
+      "nl": "Economisch",
+      "sv": "Ekonomisk",
+      "no": "Økonomisk",
+      "tr": "Ekonomik",
+      "pl": "Ekonomiczny",
+      "uk": "економічний",
+      "cs": "Ekonomický",
+      "fa": "اقتصادی"
+    }
+  }
+]

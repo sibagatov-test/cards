@@ -1,0 +1,108 @@
+[
+  {
+    "id": "variable_001",
+    "word": "Variable",
+    "partOfSpeech": "noun",
+    "shortExplanation": "One among a group of things which may change.",
+    "longExplanation": "In mathematics, a variable is a symbol for a number we don't know yet. It is usually a letter like x or y. In general, a variable is an element, feature, or factor that is liable to vary or change.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Variable_(mathematics)",
+        "type": "wikipedia",
+        "label": "Wikipedia: Variable (mathematics)"
+      }
+    ],
+    "pronunciation": "/ˈvɛəriəbəl/",
+    "examples": [
+      {
+        "sentence": "In the equation x + 5 = 10, x is the variable.",
+        "context": "Mathematics"
+      },
+      {
+        "sentence": "The weather is a highly variable factor in this experiment.",
+        "context": "Science"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Factor",
+        "coreMeaning": "A circumstance, fact, or influence that contributes to a result or outcome.",
+        "translations": {
+          "en": "Factor",
+          "es": "Factor",
+          "ru": "Фактор",
+          "zh": "因素",
+          "fr": "Facteur",
+          "de": "Faktor",
+          "ja": "要因",
+          "pt": "Fator",
+          "ar": "عامل",
+          "hi": "कारक",
+          "ko": "요인",
+          "it": "Fattore",
+          "nl": "Factor",
+          "sv": "Faktor",
+          "no": "Faktor",
+          "tr": "Faktör",
+          "pl": "Czynnik",
+          "uk": "Фактор",
+          "cs": "Faktor",
+          "fa": "عامل"
+        }
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Constant",
+        "coreMeaning": "Occurring continuously over a period of time.",
+        "translations": {
+          "en": "Constant",
+          "es": "Constante",
+          "ru": "Константа",
+          "zh": "不变的",
+          "fr": "Constant",
+          "de": "Konstante",
+          "ja": "定数",
+          "pt": "Constante",
+          "ar": "ثابت",
+          "hi": "नियत",
+          "ko": "상수",
+          "it": "Costante",
+          "nl": "Constante",
+          "sv": "Konstant",
+          "no": "Konstant",
+          "tr": "Sabit",
+          "pl": "Stały",
+          "uk": "Константа",
+          "cs": "Konstantní",
+          "fa": "ثابت"
+        }
+      }
+    ],
+    "frequency": 8,
+    "translation": "переменная",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "translations": {
+      "en": "Variable",
+      "ru": "переменная",
+      "es": "Variable",
+      "zh": "变量",
+      "fr": "Variable",
+      "de": "Variable",
+      "ja": "変数",
+      "pt": "Variável",
+      "ar": "متغير",
+      "hi": "चर",
+      "ko": "변수",
+      "it": "Variabile",
+      "nl": "Variabele",
+      "sv": "Variabel",
+      "no": "Variabel",
+      "tr": "Değişken",
+      "pl": "Zmienny",
+      "uk": "змінна",
+      "cs": "Proměnná",
+      "fa": "متغیر"
+    }
+  }
+]

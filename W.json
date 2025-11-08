@@ -1,0 +1,81 @@
+[
+  {
+    "id": "welfare_001",
+    "word": "Welfare",
+    "partOfSpeech": "noun",
+    "shortExplanation": "Financial help to the poor, or health and happiness.",
+    "longExplanation": "Welfare refers to the health, happiness, and fortunes of a person or group. It can also refer to financial support given by the state to people in need.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Welfare",
+        "type": "wikipedia",
+        "label": "Wikipedia: Welfare"
+      }
+    ],
+    "pronunciation": "/ˈwɛlfɛər/",
+    "examples": [
+      {
+        "sentence": "The government has a responsibility to provide for the welfare of its citizens.",
+        "context": "Politics"
+      },
+      {
+        "sentence": "Animal welfare is a major concern for many people.",
+        "context": "Social Issues"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Well-being",
+        "coreMeaning": "The state of being comfortable, healthy, or happy.",
+        "translations": {
+          "en": "Well-being",
+          "es": "Bienestar",
+          "ru": "Благополучие",
+          "zh": "福祉",
+          "fr": "Bien-être",
+          "de": "Wohlbefinden",
+          "ja": "福祉",
+          "pt": "Bem-estar",
+          "ar": "رفاهية",
+          "hi": "कल्याण",
+          "ko": "복지",
+          "it": "Benessere",
+          "nl": "Welzijn",
+          "sv": "Välbefinnande",
+          "no": "Velferd",
+          "tr": "Refah",
+          "pl": "Dobrobyt",
+          "uk": "Добробут",
+          "cs": "Blahobyt",
+          "fa": "رفاه"
+        }
+      }
+    ],
+    "antonyms": [],
+    "frequency": 8,
+    "translation": "благосостояние",
+    "imageUrl": "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6",
+    "translations": {
+      "en": "Welfare",
+      "ru": "благосостояние",
+      "es": "Bienestar",
+      "zh": "福利",
+      "fr": "Bien-être",
+      "de": "Wohlfahrt",
+      "ja": "福祉",
+      "pt": "Bem-estar",
+      "ar": "الرفاهية",
+      "hi": "कल्याण",
+      "ko": "복지",
+      "it": "Benessere",
+      "nl": "Welzijn",
+      "sv": "Välfärd",
+      "no": "Velferd",
+      "tr": "Refah",
+      "pl": "Opieka społeczna",
+      "uk": "добробут",
+      "cs": "Blaho",
+      "fa": "رفاه"
+    }
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "id": "data_001",
+    "word": "Data",
+    "partOfSpeech": "noun",
+    "shortExplanation": "Information from which conclusions may be drawn.",
+    "longExplanation": "Data are individual facts, statistics, or items of information, often numeric, that are collected through observation. In a more technical sense, data are a set of values of qualitative or quantitative variables about one or more persons or objects.",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Data",
+        "type": "wikipedia",
+        "label": "Wikipedia: Data"
+      }
+    ],
+    "pronunciation": "/ˈdeɪtə/",
+    "examples": [
+      {
+        "sentence": "The researchers collected data from over 1,000 participants.",
+        "context": "Research"
+      },
+      {
+        "sentence": "This chart visualizes the sales data for the last quarter.",
+        "context": "Business"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "Information",
+        "coreMeaning": "Facts provided or learned about something or someone.",
+        "translations": {
+          "en": "Information",
+          "es": "Información",
+          "ru": "Информация",
+          "zh": "信息",
+          "fr": "Information",
+          "de": "Information",
+          "ja": "情報",
+          "pt": "Informação",
+          "ar": "معلومات",
+          "hi": "जानकारी",
+          "ko": "정보",
+          "it": "Informazione",
+          "nl": "Informatie",
+          "sv": "Information",
+          "no": "Informasjon",
+          "tr": "Bilgi",
+          "pl": "Informacja",
+          "uk": "Інформація",
+          "cs": "Informace",
+          "fa": "اطلاعات"
+        }
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "Guesswork",
+        "coreMeaning": "The process or results of guessing.",
+        "translations": {
+          "en": "Guesswork",
+          "es": "Conjetura",
+          "ru": "Догадки",
+          "zh": "猜测",
+          "fr": "Conjecture",
+          "de": "Vermutung",
+          "ja": "当て推量",
+          "pt": "Suposição",
+          "ar": "تخمين",
+          "hi": "अटकलबाजी",
+          "ko": "추측",
+          "it": "Congettura",
+          "nl": "Giswerk",
+          "sv": "Gissningsarbete",
+          "no": "Gjettverk",
+          "tr": "Tahmin",
+          "pl": "Domysły",
+          "uk": "Припущення",
+          "cs": "Dohady",
+          "fa": "حدس و گمان"
+        }
+      }
+    ],
+    "frequency": 10,
+    "translation": "данные",
+    "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "translations": {
+      "en": "Data",
+      "ru": "данные",
+      "es": "Datos",
+      "zh": "数据",
+      "fr": "Données",
+      "de": "Daten",
+      "ja": "データ",
+      "pt": "Dados",
+      "ar": "بيانات",
+      "hi": "डेटा",
+      "ko": "데이터",
+      "it": "Dati",
+      "nl": "Gegevens",
+      "sv": "Data",
+      "no": "Data",
+      "tr": "Veri",
+      "pl": "Dane",
+      "uk": "дані",
+      "cs": "Data",
+      "fa": "داده"
+    }
+  }
+]
