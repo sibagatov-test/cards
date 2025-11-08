@@ -1,0 +1,12 @@
+variable: one among a group of things which may change
+validity: acceptance or meaningfulness based on reason
+volume: a book which is published periodically or as a series
+version: specific variety, different from others or the original
+visible: able to be seen
+voluntary: done willingly and without external force
+vehicle: method, or any form of land transport
+via: by way of, or by means of
+virtually: almost or practically
+visual: relating to vision or sight
+violation: action that breaks the rules
+vision: sight, mental image, or ability to anticipate the future
