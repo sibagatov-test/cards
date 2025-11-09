@@ -1,81 +1,11 @@
+
 [
-  {
-    "id": "undertaken_001",
-    "word": "Undertaken",
-    "partOfSpeech": "verb",
-    "shortExplanation": "Done or committed to do with responsibility or effort.",
-    "longExplanation": "To undertake a task or project is to commit oneself to and begin it; to take on. It implies a formal commitment and a sense of responsibility.",
-    "links": [
-      {
-        "url": "https://en.wiktionary.org/wiki/undertake",
-        "type": "wiktionary",
-        "label": "Wiktionary: undertake"
-      }
-    ],
-    "pronunciation": "/ˌʌndərˈteɪkən/",
-    "examples": [
-      {
-        "sentence": "She has undertaken the difficult task of reorganizing the department.",
-        "context": "Business"
-      },
-      {
-        "sentence": "The government has undertaken a major review of its policies.",
-        "context": "Politics"
-      }
-    ],
-    "synonyms": [
-      {
-        "word": "Embarked upon",
-        "coreMeaning": "Begun (a course of action).",
-        "translations": {
-          "en": "Embarked upon",
-          "es": "Emprendido",
-          "ru": "Предпринятый",
-          "zh": "着手进行",
-          "fr": "Entrepris",
-          "de": "In Angriff genommen",
-          "ja": "着手した",
-          "pt": "Empreendido",
-          "ar": "شرع في",
-          "hi": "आरंभ किया",
-          "ko": "착수했다",
-          "it": "Intrapreso",
-          "nl": "Aangevangen",
-          "sv": "Påbörjat",
-          "no": "Påbegynt",
-          "tr": "Üstlenilen",
-          "pl": "Podjęty",
-          "uk": "Розпочатий",
-          "cs": "Zahájeno",
-          "fa": "آغاز شده"
-        }
-      }
-    ],
-    "antonyms": [],
-    "frequency": 7,
-    "translation": "предпринятый",
-    "imageUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952",
-    "translations": {
-      "en": "Undertaken",
-      "ru": "предпринятый",
-      "es": "Emprendido",
-      "zh": "承担",
-      "fr": "Entrepris",
-      "de": "Unternommen",
-      "ja": "引き受けた",
-      "pt": "Empreendido",
-      "ar": "المضطلع به",
-      "hi": "किया हुआ",
-      "ko": "착수 한",
-      "it": "Intrapreso",
-      "nl": "Ondernomen",
-      "sv": "Genomfört",
-      "no": "Gjennomført",
-      "tr": "Üstlenilen",
-      "pl": "Podjęte",
-      "uk": "здійснений",
-      "cs": "Provedeno",
-      "fa": "انجام شده"
-    }
-  }
+  {"id": "undertaken_001","word": "undertaken","partOfSpeech": "verb","shortExplanation": "done or committed to do with responsibility or effort","longExplanation": "Commit oneself to and begin (an enterprise or responsibility); take on.","links": [{"url": "https://en.wiktionary.org/wiki/undertake","type": "dictionary","label": "Wiktionary: undertake"}],"pronunciation": "/ˌʌndəˈteɪkən/","examples": [{"sentence": "The company has undertaken a major new project.","context": "Business"},{"sentence": "She has undertaken the task of organizing the event.","context": "Event Management"}],"synonyms": [{"word": "Tackled","coreMeaning": "Make determined efforts to deal with (a difficult problem or task)","translations": {"en": "Tackled","es": "Abordado","ru": "Решенный","zh": "处理","fr": "Abordé","de": "In Angriff genommen","ja": "取り組んだ","pt": "Abordado","ar": "معالجتها","hi": " निपटा","ko": "착수","it": "Affrontato","nl": "Aangepakt","sv": "Tacklade","no": "Tacklet","tr": "Ele alındı","pl": "Zajęty","uk": "Вирішено","cs": "Vyřešeno","fa": "مقابله کرد"}}],"antonyms": [],"frequency": 8,"translation": "предпринятый","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "undertaken","es": "emprendido","ru": "предпринятый","zh": "承担","fr": "entrepris","de": "unternommen","ja": "着手","pt": "empreendido","ar": "اضطلع","hi": "किया","ko": "착수","it": "intrapreso","nl": "ondernomen","sv": "genomfört","no": "foretatt","tr": "üstlenilen","pl": "podjęte","uk": "здійснений","cs": "podnikl","fa": "انجام شده"}},
+  {"id": "underlying_001","word": "underlying","partOfSpeech": "adjective","shortExplanation": "fundamental, implicit but not obvious, prior","longExplanation": "Fundamental; basic.","links": [{"url": "https://en.wiktionary.org/wiki/underlying","type": "dictionary","label": "Wiktionary: underlying"}],"pronunciation": "/ˌʌndəˈlaɪɪŋ/","examples": [{"sentence": "The underlying cause of the problem is a lack of funding.","context": "Finance"},{"sentence": "There is an underlying theme of love in the novel.","context": "Literature"}],"synonyms": [{"word": "Fundamental","coreMeaning": "Forming a necessary base or core; of central importance","translations": {"en": "Fundamental","es": "Fundamental","ru": "Фундаментальный","zh": "基本的","fr": "Fondamental","de": "Grundlegend","ja": "基本的","pt": "Fundamental","ar": "أساسي","hi": "मौलिक","ko": "근본적인","it": "Fondamentale","nl": "Fundamenteel","sv": "Grundläggande","no": "Grunnleggende","tr": "Temel","pl": "Podstawowy","uk": "Фундаментальний","cs": "Základní","fa": "اساسی"}}],"antonyms": [],"frequency": 8,"translation": "лежащий в основе","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "underlying","es": "subyacente","ru": "лежащий в основе","zh": "潜在的","fr": "sous-jacent","de": "zugrunde liegend","ja": "根底にある","pt": "subjacente","ar": "الكامن","hi": "अंतर्निहित","ko": "기본","it": "sottostante","nl": "onderliggend","sv": "underliggande","no": "underliggende","tr": "altında yatan","pl": "podstawowy","uk": "основний","cs": "podkladový","fa": "اساسی"}},
+  {"id": "utility_001","word": "utility","partOfSpeech": "noun","shortExplanation": "usefulness, or public service such as gas or water","longExplanation": "The state of being useful, profitable, or beneficial.","links": [{"url": "https://en.wiktionary.org/wiki/utility","type": "dictionary","label": "Wiktionary: utility"}],"pronunciation": "/juːˈtɪləti/","examples": [{"sentence": "The utility of the new software is questionable.","context": "Technology"},{"sentence": "The company provides a variety of utility services.","context": "Business"}],"synonyms": [{"word": "Usefulness","coreMeaning": "The quality or fact of being useful","translations": {"en": "Usefulness","es": "Utilidad","ru": "Полезность","zh": "有用性","fr": "Utilité","de": "Nützlichkeit","ja": "有用性","pt": "Utilidade","ar": "فائدة","hi": "उपयोगिता","ko": "유용","it": "Utilità","nl": "Bruikbaarheid","sv": "Användbarhet","no": "Nytten","tr": "Kullanışlılık","pl": "Użyteczność","uk": "Корисність","cs": "Užitečnost","fa": "سودمندی"}}],"antonyms": [],"frequency": 8,"translation": "утилита","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "utility","es": "utilidad","ru": "утилита","zh": "效用","fr": "utilité","de": "Dienstprogramm","ja": "ユーティリティ","pt": "utilidade","ar": "جدوى","hi": "उपयोगिता","ko": "유용","it": "utilità","nl": "hulpprogramma","sv": "verktyg","no": "verktøy","tr": "yarar","pl": "użyteczność","uk": "утиліта","cs": "užitečnost","fa": "سودمندی"}},
+  {"id": "ultimately_001","word": "ultimately","partOfSpeech": "adverb","shortExplanation": "finally and after much trouble or discussion","longExplanation": "Finally; in the end.","links": [{"url": "https://en.wiktionary.org/wiki/ultimately","type": "dictionary","label": "Wiktionary: ultimately"}],"pronunciation": "/ˈʌltɪmətli/","examples": [{"sentence": "Ultimately, the decision is yours.","context": "General"},{"sentence": "The company ultimately went bankrupt.","context": "Business"}],"synonyms": [{"word": "Finally","coreMeaning": "After a long time, typically when there has been difficulty or delay","translations": {"en": "Finally","es": "Finalmente","ru": "Наконец","zh": "最后","fr": "Finalement","de": "Schließlich","ja": "ついに","pt": "Finalmente","ar": "أخيرا","hi": "आखिरकार","ko": "마침내","it": "Finalmente","nl": "Eindelijk","sv": "Slutligen","no": "Endelig","tr": "Sonunda","pl": "Wreszcie","uk": "Нарешті","cs": "Konečně","fa": "سرانجام"}}],"antonyms": [],"frequency": 8,"translation": "в конечном счете","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "ultimately","es": "finalmente","ru": "в конечном счете","zh": "最后","fr": "finalement","de": "letztendlich","ja": "最終的に","pt": "finalmente","ar": "في النهاية","hi": "अंत में","ko": "궁극적으로","it": "in definitiva","nl": "uiteindelijk","sv": "i slutändan","no": "til syvende og sist","tr": "sonuçta","pl": "ostatecznie","uk": "зрештою","cs": "nakonec","fa": "در نهایت"}},
+  {"id": "unique_001","word": "unique","partOfSpeech": "adjective","shortExplanation": "completely different from anything else","longExplanation": "Being the only one of its kind; unlike anything else.","links": [{"url": "https://en.wiktionary.org/wiki/unique","type": "dictionary","label": "Wiktionary: unique"}],"pronunciation": "/juːˈniːk/","examples": [{"sentence": "She has a unique talent for singing.","context": "Arts"},{"sentence": "The design of the building is unique.","context": "Architecture"}],"synonyms": [{"word": "Distinctive","coreMeaning": "Characteristic of one person or thing, and so serving to distinguish it from others","translations": {"en": "Distinctive","es": "Distintivo","ru": "Отличительный","zh": "独特的","fr": "Distinctif","de": "Unverwechselbar","ja": "特徴的","pt": "Distintivo","ar": "مميز","hi": "विशिष्ट","ko": "독특한","it": "Distintivo","nl": "Onderscheidend","sv": "Utmärkande","no": "Særpreget","tr": "Ayırt edici","pl": "Charakterystyczny","uk": "Відмінний","cs": "Výrazný","fa": "متمایز"}}],"antonyms": [],"frequency": 8,"translation": "уникальный","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "unique","es": "único","ru": "уникальный","zh": "独特的","fr": "unique","de": "einzigartig","ja": "ユニーク","pt": "único","ar": "فريد","hi": "अद्वितीय","ko": "독특한","it": "unico","nl": "uniek","sv": "unik","no": "unik","tr": "benzersiz","pl": "unikalny","uk": "унікальний","cs": "jedinečný","fa": "منحصر بفرد"}},
+  {"id": "uniform_001","word": "uniform","partOfSpeech": "adjective","shortExplanation": "always the same","longExplanation": "Remaining the same in all cases and at all times; unchanging in form or character.","links": [{"url": "https://en.wiktionary.org/wiki/uniform","type": "dictionary","label": "Wiktionary: uniform"}],"pronunciation": "/ˈjuːnɪfɔːm/","examples": [{"sentence": "The soldiers were wearing their uniforms.","context": "Military"},{"sentence": "The company has a uniform policy for all its employees.","context": "Business"}],"synonyms": [{"word": "Consistent","coreMeaning": "Acting or done in the same way over time, especially so as to be fair or accurate","translations": {"en": "Consistent","es": "Consistente","ru": "Последовательный","zh": "一致的","fr": "Cohérent","de": "Konsequent","ja": "一貫した","pt": "Consistente","ar": "متناسق","hi": "लगातार","ko": "일관된","it": "Coerente","nl": "Consistent","sv": "Konsekvent","no": "Konsekvent","tr": "Tutarlı","pl": "Spójny","uk": "Послідовний","cs": "Konzistentní","fa": "استوار"}}],"antonyms": [],"frequency": 8,"translation": "униформа","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "uniform","es": "uniforme","ru": "униформа","zh": "制服","fr": "uniforme","de": "Uniform","ja": "制服","pt": "uniforme","ar": "زي موحد","hi": "वर्दी","ko": "제복","it": "uniforme","nl": "uniform","sv": "uniform","no": "uniform","tr": "üniforma","pl": "mundur","uk": "уніформа","cs": "jednotný","fa": "یونیفرم"}},
+  {"id": "unified_001","word": "unified","partOfSpeech": "adjective","shortExplanation": "brought together or combined as a whole","longExplanation": "Make or become united, uniform, or whole.","links": [{"url": "https://en.wiktionary.org/wiki/unify","type": "dictionary","label": "Wiktionary: unify"}],"pronunciation": "/ˈjuːnɪfaɪd/","examples": [{"sentence": "The two companies have unified their operations.","context": "Business"},{"sentence": "The country is unified under a single government.","context": "Politics"}],"synonyms": [{"word": "United","coreMeaning": "Joined together politically, for a common purpose, or by common feelings","translations": {"en": "United","es": "Unido","ru": "Объединенный","zh": "联合的","fr": "Uni","de": "Vereinigt","ja": "ユナイテッド","pt": "Unido","ar": "متحد","hi": "संयुक्त","ko": "연합","it": "Unito","nl": "Verenigd","sv": "Förenad","no": "Forente","tr": "Birleşik","pl": "Zjednoczony","uk": "Об'єднаний","cs": "Sjednocený","fa": "متحد"}}],"antonyms": [],"frequency": 8,"translation": "объединенный","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "unified","es": "unificado","ru": "объединенный","zh": "统一的","fr": "unifié","de": "vereinheitlicht","ja": "統一された","pt": "unificado","ar": "موحد","hi": "एकीकृत","ko": "통합","it": "unificato","nl": "verenigd","sv": "enad","no": "samlet","tr": "birleşik","pl": "zjednoczony","uk": "об'єднаний","cs": "sjednocený","fa": "یکپارچه"}},
+  {"id": "undergo_001","word": "undergo","partOfSpeech": "verb","shortExplanation": "to experience of endure","longExplanation": "Experience or be subjected to (something, typically something unpleasant, painful, or arduous).","links": [{"url": "https://en.wiktionary.org/wiki/undergo","type": "dictionary","label": "Wiktionary: undergo"}],"pronunciation": "/ˌʌndəˈɡəʊ/","examples": [{"sentence": "The company is undergoing a major restructuring.","context": "Business"},{"sentence": "She had to undergo surgery.","context": "Health"}],"synonyms": [{"word": "Experience","coreMeaning": "Practical contact with and observation of facts or events","translations": {"en": "Experience","es": "Experiencia","ru": "Опыт","zh": "经验","fr": "Expérience","de": "Erfahrung","ja": "経験","pt": "Experiência","ar": "خبرة","hi": "अनुभव","ko": "경험","it": "Esperienza","nl": "Ervaring","sv": "Erfarenhet","no": "Erfaring","tr": "Deneyim","pl": "Doświadczenie","uk": "Досвід","cs": "Zkušenost","fa": "تجربه"}}],"antonyms": [],"frequency": 8,"translation": "проходить","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "undergo","es": "someterse","ru": "проходить","zh": "经历","fr": "subir","de": "durchmachen","ja": "受ける","pt": "submeter-se","ar": "يخضع","hi": "गुजरना","ko": "겪다","it": "subire","nl": "ondergaan","sv": "genomgå","no": "gjennomgå","tr": "geçirmek","pl": "przejść","uk": "зазнавати","cs": "podstoupit","fa": "تحمل کردن"}}
 ]

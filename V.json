@@ -1,108 +1,15 @@
+
 [
-  {
-    "id": "variable_001",
-    "word": "Variable",
-    "partOfSpeech": "noun",
-    "shortExplanation": "One among a group of things which may change.",
-    "longExplanation": "In mathematics, a variable is a symbol for a number we don't know yet. It is usually a letter like x or y. In general, a variable is an element, feature, or factor that is liable to vary or change.",
-    "links": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Variable_(mathematics)",
-        "type": "wikipedia",
-        "label": "Wikipedia: Variable (mathematics)"
-      }
-    ],
-    "pronunciation": "/ˈvɛəriəbəl/",
-    "examples": [
-      {
-        "sentence": "In the equation x + 5 = 10, x is the variable.",
-        "context": "Mathematics"
-      },
-      {
-        "sentence": "The weather is a highly variable factor in this experiment.",
-        "context": "Science"
-      }
-    ],
-    "synonyms": [
-      {
-        "word": "Factor",
-        "coreMeaning": "A circumstance, fact, or influence that contributes to a result or outcome.",
-        "translations": {
-          "en": "Factor",
-          "es": "Factor",
-          "ru": "Фактор",
-          "zh": "因素",
-          "fr": "Facteur",
-          "de": "Faktor",
-          "ja": "要因",
-          "pt": "Fator",
-          "ar": "عامل",
-          "hi": "कारक",
-          "ko": "요인",
-          "it": "Fattore",
-          "nl": "Factor",
-          "sv": "Faktor",
-          "no": "Faktor",
-          "tr": "Faktör",
-          "pl": "Czynnik",
-          "uk": "Фактор",
-          "cs": "Faktor",
-          "fa": "عامل"
-        }
-      }
-    ],
-    "antonyms": [
-      {
-        "word": "Constant",
-        "coreMeaning": "Occurring continuously over a period of time.",
-        "translations": {
-          "en": "Constant",
-          "es": "Constante",
-          "ru": "Константа",
-          "zh": "不变的",
-          "fr": "Constant",
-          "de": "Konstante",
-          "ja": "定数",
-          "pt": "Constante",
-          "ar": "ثابت",
-          "hi": "नियत",
-          "ko": "상수",
-          "it": "Costante",
-          "nl": "Constante",
-          "sv": "Konstant",
-          "no": "Konstant",
-          "tr": "Sabit",
-          "pl": "Stały",
-          "uk": "Константа",
-          "cs": "Konstantní",
-          "fa": "ثابت"
-        }
-      }
-    ],
-    "frequency": 8,
-    "translation": "переменная",
-    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475",
-    "translations": {
-      "en": "Variable",
-      "ru": "переменная",
-      "es": "Variable",
-      "zh": "变量",
-      "fr": "Variable",
-      "de": "Variable",
-      "ja": "変数",
-      "pt": "Variável",
-      "ar": "متغير",
-      "hi": "चर",
-      "ko": "변수",
-      "it": "Variabile",
-      "nl": "Variabele",
-      "sv": "Variabel",
-      "no": "Variabel",
-      "tr": "Değişken",
-      "pl": "Zmienny",
-      "uk": "змінна",
-      "cs": "Proměnná",
-      "fa": "متغیر"
-    }
-  }
+  {"id": "variable_001","word": "variable","partOfSpeech": "noun","shortExplanation": "one among a group of things which may change","longExplanation": "An element, feature, or factor that is liable to vary or change.","links": [{"url": "https://en.wiktionary.org/wiki/variable","type": "dictionary","label": "Wiktionary: variable"}],"pronunciation": "/ˈvɛəriəbəl/","examples": [{"sentence": "The temperature is a variable in this experiment.","context": "Science"},{"sentence": "The company's profits are a variable that depends on many factors.","context": "Business"}],"synonyms": [{"word": "Factor","coreMeaning": "A circumstance, fact, or influence that contributes to a result or outcome","translations": {"en": "Factor","es": "Factor","ru": "Фактор","zh": "因素","fr": "Facteur","de": "Faktor","ja": "要因","pt": "Fator","ar": "عامل","hi": "गुणक","ko": "요인","it": "Fattore","nl": "Factor","sv": "Faktor","no": "Faktor","tr": "Faktör","pl": "Czynnik","uk": "Фактор","cs": "Faktor","fa": "عامل"}}],"antonyms": [{"word": "Constant","coreMeaning": "A situation or state of affairs that does not change","translations": {"en": "Constant","es": "Constante","ru": "Постоянная","zh": "常数","fr": "Constante","de": "Konstante","ja": "定数","pt": "Constante","ar": " ثابت","hi": "अचल","ko": "일정한","it": "Costante","nl": "Constante","sv": "Konstant","no": "Konstant","tr": "Sabit","pl": "Stała","uk": "Константа","cs": "Konstantní","fa": "ثابت"}}],"frequency": 9,"translation": "переменная","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "variable","es": "variable","ru": "переменная","zh": "多变的","fr": "variable","de": "Variable","ja": "変数","pt": "variável","ar": "متغير","hi": "चर","ko": "변수","it": "variabile","nl": "variabele","sv": "variabel","no": "variabel","tr": "değişken","pl": "zmienna","uk": "змінна","cs": "proměnná","fa": "متغیر"}},
+  {"id": "validity_001","word": "validity","partOfSpeech": "noun","shortExplanation": "acceptance or meaningfulness based on reason","longExplanation": "The quality of being logically or factually sound; soundness or cogency.","links": [{"url": "https://en.wiktionary.org/wiki/validity","type": "dictionary","label": "Wiktionary: validity"}],"pronunciation": "/vəˈlɪdəti/","examples": [{"sentence": "The validity of the contract is in question.","context": "Law"},{"sentence": "The study's validity has been challenged by other researchers.","context": "Science"}],"synonyms": [{"word": "Soundness","coreMeaning": "The quality of being based on valid reason or good judgment","translations": {"en": "Soundness","es": "Solidez","ru": "Обоснованность","zh": "稳健","fr": "Solidité","de": "Solidität","ja": "健全性","pt": "Solidez","ar": "سلامة","hi": "सुदृढ़ता","ko": "건전","it": "Solidità","nl": "Degelijkheid","sv": "Sundhet","no": "Sunnhet","tr": "Sağlamlık","pl": "Solidność","uk": "Обґрунтованість","cs": "Spolehlivost","fa": "سلامت"}}],"antonyms": [{"word": "Invalidity","coreMeaning": "The state of being invalid","translations": {"en": "Invalidity","es": "Invalidez","ru": "Недействительность","zh": "无效","fr": "Invalidité","de": "Ungültigkeit","ja": "無効","pt": "Invalidade","ar": "بطلان","hi": "अमान्यता","ko": "무효","it": "Invalidità","nl": "Ongeldigheid","sv": "Ogiltighet","no": "Ugyldighet","tr": "Geçersizlik","pl": "Nieważność","uk": "Недійсність","cs": "Neplatnost","fa": "بی اعتباری"}}],"frequency": 8,"translation": "действительность","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "validity","es": "validez","ru": "действительность","zh": "有效性","fr": "validité","de": "Gültigkeit","ja": "有効性","pt": "validade","ar": "صحة","hi": "वैधता","ko": "타당성","it": "validità","nl": "validiteit","sv": "giltighet","no": "gyldighet","tr": "geçerlilik","pl": "ważność","uk": "дійсність","cs": "platnost","fa": "اعتبار"}},
+  {"id": "volume_001","word": "volume","partOfSpeech": "noun","shortExplanation": "a book which is published periodically or as a series","longExplanation": "A book forming part of a work or series.","links": [{"url": "https://en.wiktionary.org/wiki/volume","type": "dictionary","label": "Wiktionary: volume"}],"pronunciation": "/ˈvɒljuːm/","examples": [{"sentence": "The library has a large volume of books.","context": "Education"},{"sentence": "The company has seen a significant increase in the volume of sales.","context": "Business"}],"synonyms": [{"word": "Book","coreMeaning": "A written or printed work consisting of pages glued or sewn together along one side and bound in covers","translations": {"en": "Book","es": "Libro","ru": "Книга","zh": "书","fr": "Livre","de": "Buch","ja": "本","pt": "Livro","ar": "كتاب","hi": "किताब","ko": "책","it": "Libro","nl": "Boek","sv": "Bok","no": "Bok","tr": "Kitap","pl": "Książka","uk": "Книга","cs": "Kniha","fa": "کتاب"}}],"antonyms": [],"frequency": 9,"translation": "объем","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "volume","es": "volumen","ru": "объем","zh": "体积","fr": "volume","de": "Volumen","ja": "ボリューム","pt": "volume","ar": "الصوت","hi": "आयतन","ko": "볼륨","it": "volume","nl": "volume","sv": "volym","no": "volum","tr": "hacim","pl": "głośność","uk": "об'єм","cs": "objem","fa": "جلد"}},
+  {"id": "version_001","word": "version","partOfSpeech": "noun","shortExplanation": "specific variety, different from others or the original","longExplanation": "A particular form of something differing in certain respects from an earlier form or other forms of the same type of thing.","links": [{"url": "https://en.wiktionary.org/wiki/version","type": "dictionary","label": "Wiktionary: version"}],"pronunciation": "/ˈvɜːʃən/","examples": [{"sentence": "The new version of the software has many new features.","context": "Technology"},{"sentence": "The movie is a modern version of a classic story.","context": "Entertainment"}],"synonyms": [{"word": "Edition","coreMeaning": "A particular form or version of a published text","translations": {"en": "Edition","es": "Edición","ru": "Издание","zh": "版本","fr": "Édition","de": "Ausgabe","ja": "版","pt": "Edição","ar": "إصدار","hi": "संस्करण","ko": "판","it": "Edizione","nl": "Editie","sv": "Utgåva","no": "Utgave","tr": "Baskı","pl": "Wydanie","uk": "Видання","cs": "Vydání","fa": "نسخه"}}],"antonyms": [],"frequency": 9,"translation": "версия","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "version","es": "versión","ru": "версия","zh": "版本","fr": "version","de": "Version","ja": "バージョン","pt": "versão","ar": "إصدار","hi": "संस्करण","ko": "버전","it": "versione","nl": "versie","sv": "version","no": "versjon","tr": "versiyon","pl": "wersja","uk": "версія","cs": "verze","fa": "نسخه"}},
+  {"id": "visible_001","word": "visible","partOfSpeech": "adjective","shortExplanation": "able to be seen","longExplanation": "Able to be seen.","links": [{"url": "https://en.wiktionary.org/wiki/visible","type": "dictionary","label": "Wiktionary: visible"}],"pronunciation": "/ˈvɪzəbəl/","examples": [{"sentence": "The stars are visible at night.","context": "Astronomy"},{"sentence": "The company has made a visible effort to improve its customer service.","context": "Business"}],"synonyms": [{"word": "Noticeable","coreMeaning": "Easily seen or noticed; clear or apparent","translations": {"en": "Noticeable","es": "Notable","ru": "Заметный","zh": "明显的","fr": "Remarquable","de": "Auffällig","ja": "目立つ","pt": "Notável","ar": "ملحوظ","hi": "ध्यान देने योग्य","ko": "눈에 띄는","it": "Notevole","nl": "Merkbaar","sv": "Märkbar","no": "Merkbar","tr": "Fark edilir","pl": "Zauważalny","uk": "Помітний","cs": "Znatelný","fa": "قابل توجه"}}],"antonyms": [{"word": "Invisible","coreMeaning": "Unable to be seen","translations": {"en": "Invisible","es": "Invisible","ru": "Невидимый","zh": "无形的","fr": "Invisible","de": "Unsichtbar","ja": "見えない","pt": "Invisível","ar": "غير مرئي","hi": "अदृश्य","ko": "보이지 않는","it": "Invisibile","nl": "Onzichtbaar","sv": "Osynlig","no": "Usynlig","tr": "Görünmez","pl": "Niewidzialny","uk": "Невидимий","cs": "Neviditelný","fa": "نامرئی"}}],"frequency": 9,"translation": "видимый","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "visible","es": "visible","ru": "видимый","zh": "可见的","fr": "visible","de": "sichtbar","ja": "見える","pt": "visível","ar": "مرئي","hi": "दृश्य","ko": "보이는","it": "visibile","nl": "zichtbaar","sv": "synlig","no": "synlig","tr": "görünür","pl": "widoczny","uk": "видимий","cs": "viditelný","fa": "قابل مشاهده"}},
+  {"id": "voluntary_001","word": "voluntary","partOfSpeech": "adjective","shortExplanation": "done willingly and without external force","longExplanation": "Done, given, or acting of one's own free will.","links": [{"url": "https://en.wiktionary.org/wiki/voluntary","type": "dictionary","label": "Wiktionary: voluntary"}],"pronunciation": "/ˈvɒləntəri/","examples": [{"sentence": "She does voluntary work at the local hospital.","context": "Community"},{"sentence": "The company has a voluntary retirement program.","context": "Work"}],"synonyms": [{"word": "Optional","coreMeaning": "Available to be chosen but not obligatory","translations": {"en": "Optional","es": "Opcional","ru": "Необязательный","zh": "可选的","fr": "Optionnel","de": "Optional","ja": "オプション","pt": "Opcional","ar": "اختياري","hi": "वैकल्पिक","ko": "선택 과목","it": "Opzionale","nl": "Optioneel","sv": "Frivillig","no": "Valgfri","tr": "İsteğe bağlı","pl": "Opcjonalny","uk": "Необов'язковий","cs": "Volitelný","fa": "اختیاری"}}],"antonyms": [{"word": "Compulsory","coreMeaning": "Required by law or a rule; obligatory","translations": {"en": "Compulsory","es": "Obligatorio","ru": "Обязательный","zh": "义务的","fr": "Obligatoire","de": "Zwingend","ja": "必須","pt": "Obrigatório","ar": "إلزامي","hi": "अनिवार्य","ko": "필수의","it": "Obbligatorio","nl": "Verplicht","sv": "Obligatorisk","no": "Obligatorisk","tr": "Zorunlu","pl": "Obowiązkowy","uk": "Обов'язковий","cs": "Povinný","fa": "اجباری"}}],"frequency": 8,"translation": "добровольный","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "voluntary","es": "voluntario","ru": "добровольный","zh": "自愿的","fr": "volontaire","de": "freiwillig","ja": "自発的","pt": "voluntário","ar": "طوعي","hi": "स्वैच्छिक","ko": "자발적인","it": "volontario","nl": "vrijwillig","sv": "frivillig","no": "frivillig","tr": "gönüllü","pl": "dobrowolny","uk": "добровільний","cs": "dobrovolný","fa": "داوطلبانه"}},
+  {"id": "vehicle_001","word": "vehicle","partOfSpeech": "noun","shortExplanation": "method, or any form of land transport","longExplanation": "A thing used for transporting people or goods, especially on land, such as a car, truck, or cart.","links": [{"url": "https://en.wiktionary.org/wiki/vehicle","type": "dictionary","label": "Wiktionary: vehicle"}],"pronunciation": "/ˈviːɪkəl/","examples": [{"sentence": "The company has a fleet of vehicles.","context": "Business"},{"sentence": "The car is a very popular vehicle.","context": "Automotive"}],"synonyms": [{"word": "Car","coreMeaning": "A road vehicle, typically with four wheels, powered by an internal combustion engine or electric motor and able to carry a small number of people","translations": {"en": "Car","es": "Coche","ru": "Машина","zh": "车","fr": "Voiture","de": "Auto","ja": "車","pt": "Carro","ar": "سيارة","hi": "गाड़ी","ko": "차","it": "Auto","nl": "Auto","sv": "Bil","no": "Bil","tr": "Araba","pl": "Samochód","uk": "Автомобіль","cs": "Auto","fa": "ماشین"}}],"antonyms": [],"frequency": 8,"translation": "транспортное средство","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "vehicle","es": "vehículo","ru": "транспортное средство","zh": "车辆","fr": "véhicule","de": "Fahrzeug","ja": "車両","pt": "veículo","ar": "مركبة","hi": "वाहन","ko": "차량","it": "veicolo","nl": "voertuig","sv": "fordon","no": "kjøretøy","tr": "araç","pl": "pojazd","uk": "транспортний засіб","cs": "vozidlo","fa": "وسیله نقلیه"}},
+  {"id": "via_001","word": "via","partOfSpeech": "preposition","shortExplanation": "by way of, or by means of","longExplanation": "By way of.","links": [{"url": "https://en.wiktionary.org/wiki/via","type": "dictionary","label": "Wiktionary: via"}],"pronunciation": "/ˈvaɪə/","examples": [{"sentence": "I will send you the document via email.","context": "Communication"},{"sentence": "We traveled to New York via Chicago.","context": "Travel"}],"synonyms": [{"word": "By","coreMeaning": "Indicating the means of achieving something","translations": {"en": "By","es": "Por","ru": "Кем-то","zh": "经过","fr": "Par","de": "Von","ja": "によって","pt": "Por","ar": "بواسطة","hi": "द्वारा","ko": "에 의해","it": "Di","nl": "Door","sv": "Genom","no": "Av","tr": "Tarafından","pl": "Przez","uk": "За","cs": "Podle","fa": "توسط"}}],"antonyms": [],"frequency": 8,"translation": "через","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "via","es": "vía","ru": "через","zh": "通过","fr": "via","de": "über","ja": "経由","pt": "via","ar": "عبر","hi": "के जरिए","ko": "을 통해","it": "tramite","nl": "via","sv": "via","no": "via","tr": "üzerinden","pl": "przez","uk": "через","cs": "přes","fa": "از طریق"}},
+  {"id": "virtually_001","word": "virtually","partOfSpeech": "adverb","shortExplanation": "almost or practically","longExplanation": "Nearly; almost.","links": [{"url": "https://en.wiktionary.org/wiki/virtually","type": "dictionary","label": "Wiktionary: virtually"}],"pronunciation": "/ˈvɜːtʃuəli/","examples": [{"sentence": "The project is virtually complete.","context": "Project Management"},{"sentence": "It is virtually impossible to predict the future.","context": "General"}],"synonyms": [{"word": "Almost","coreMeaning": "Not quite; very nearly","translations": {"en": "Almost","es": "Casi","ru": "Почти","zh": "几乎","fr": "Presque","de": "Fast","ja": "ほとんど","pt": "Quase","ar": "تقريبا","hi": "लगभग","ko": "거의","it": "Quasi","nl": "Bijna","sv": "Nästan","no": "Nesten","tr": "Neredeyse","pl": "Prawie","uk": "Майже","cs": "Téměř","fa": "تقریبا"}}],"antonyms": [],"frequency": 8,"translation": "практически","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "virtually","es": "virtualmente","ru": "практически","zh": "几乎","fr": "virtuellement","de": "praktisch","ja": "事実上","pt": "virtualmente","ar": "تقريبا","hi": "लगभग","ko": "사실상","it": "virtualmente","nl": "vrijwel","sv": "praktiskt taget","no": "praktisk talt","tr": "neredeyse","pl": "praktycznie","uk": "практично","cs": "prakticky","fa": "عملا"}},
+  {"id": "visual_001","word": "visual","partOfSpeech": "adjective","shortExplanation": "relating to vision or sight","longExplanation": "Relating to seeing or sight.","links": [{"url": "https://en.wiktionary.org/wiki/visual","type": "dictionary","label": "Wiktionary: visual"}],"pronunciation": "/ˈvɪʒuəl/","examples": [{"sentence": "The artist is known for her stunning visual effects.","context": "Arts"},{"sentence": "The company uses a lot of visual aids in its presentations.","context": "Business"}],"synonyms": [{"word": "Optical","coreMeaning": "Relating to sight, especially in relation to the physical action of light","translations": {"en": "Optical","es": "Óptico","ru": "Оптический","zh": "光学的","fr": "Optique","de": "Optisch","ja": "光","pt": "Óptico","ar": "بصري","hi": "ऑप्टिकल","ko": "광학","it": "Ottico","nl": "Optisch","sv": "Optisk","no": "Optisk","tr": "Optik","pl": "Optyczny","uk": "Оптичний","cs": "Optický","fa": "نوری"}}],"antonyms": [],"frequency": 8,"translation": "визуальный","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "visual","es": "visual","ru": "визуальный","zh": "视觉的","fr": "visuel","de": "visuell","ja": "ビジュアル","pt": "visual","ar": "بصري","hi": "दृश्य","ko": "시각적","it": "visivo","nl": "visueel","sv": "visuell","no": "visuell","tr": "görsel","pl": "wizualny","uk": "візуальний","cs": "vizuální","fa": "بصری"}},
+  {"id": "violation_001","word": "violation","partOfSpeech": "noun","shortExplanation": "action that breaks the rules","longExplanation": "The action of violating someone or something.","links": [{"url": "https://en.wiktionary.org/wiki/violation","type": "dictionary","label": "Wiktionary: violation"}],"pronunciation": "/ˌvaɪəˈleɪʃən/","examples": [{"sentence": "He was arrested for a traffic violation.","context": "Law"},{"sentence": "The company was fined for a violation of safety regulations.","context": "Business"}],"synonyms": [{"word": "Breach","coreMeaning": "An act of breaking or failing to observe a law, agreement, or code of conduct","translations": {"en": "Breach","es": "Incumplimiento","ru": "Нарушение","zh": "违反","fr": "Violation","de": "Verstoß","ja": "違反","pt": "Violação","ar": "خرق","hi": "उल्लंघन","ko": "위반","it": "Violazione","nl": "Schending","sv": "Brott","no": "Brudd","tr": "İhlal","pl": "Naruszenie","uk": "Порушення","cs": "Porušení","fa": "نقض"}}],"antonyms": [],"frequency": 8,"translation": "нарушение","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "violation","es": "violación","ru": "нарушение","zh": "违反","fr": "violation","de": "Verstoß","ja": "違反","pt": "violação","ar": "انتهاك","hi": "उल्लंघन","ko": "위반","it": "violazione","nl": "overtreding","sv": "överträdelse","no": "brudd","tr": "ihlal","pl": "naruszenie","uk": "порушення","cs": "porušení","fa": "تخلف"}},
+  {"id": "vision_001","word": "vision","partOfSpeech": "noun","shortExplanation": "sight, mental image, or ability to anticipate the future","longExplanation": "The faculty or state of being able to see.","links": [{"url": "https://en.wiktionary.org/wiki/vision","type": "dictionary","label": "Wiktionary: vision"}],"pronunciation": "/ˈvɪʒən/","examples": [{"sentence": "He has poor vision.","context": "Health"},{"sentence": "The company has a clear vision for the future.","context": "Business"}],"synonyms": [{"word": "Sight","coreMeaning": "The faculty or power of seeing","translations": {"en": "Sight","es": "Vista","ru": "Зрение","zh": "视力","fr": "Vue","de": "Sicht","ja": "視力","pt": "Visão","ar": "مشهد","hi": "नज़र","ko": "시력","it": "Vista","nl": "Zicht","sv": "Syn","no": "Syn","tr": "Görüş","pl": "Wzrok","uk": "Зір","cs": "Pohled","fa": "دید"}}],"antonyms": [],"frequency": 8,"translation": "видение","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "vision","es": "visión","ru": "видение","zh": "视力","fr": "vision","de": "Vision","ja": "ビジョン","pt": "visão","ar": "رؤية","hi": "नज़र","ko": "시력","it": "visione","nl": "visie","sv": "vision","no": "visjon","tr": "vizyon","pl": "wizja","uk": "бачення","cs": "vidění","fa": "چشم انداز"}}
 ]

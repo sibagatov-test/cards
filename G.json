@@ -1,108 +1,12 @@
+
 [
-  {
-    "id": "goals_001",
-    "word": "Goals",
-    "partOfSpeech": "noun",
-    "shortExplanation": "Aims, purposes or targets.",
-    "longExplanation": "Goals are ideas of the future or desired results that a person or a group of people envisions, plans and commits to achieve. A goal is roughly similar to a purpose or aim, the anticipated result which guides reaction, or an end, which is an object, either a physical object or an abstract object, that has intrinsic value.",
-    "links": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Goal",
-        "type": "wikipedia",
-        "label": "Wikipedia: Goal"
-      }
-    ],
-    "pronunciation": "/ɡoʊlz/",
-    "examples": [
-      {
-        "sentence": "Setting clear goals is the first step to achieving them.",
-        "context": "Personal Development"
-      },
-      {
-        "sentence": "The main goal of the project is to improve efficiency.",
-        "context": "Business"
-      }
-    ],
-    "synonyms": [
-      {
-        "word": "Aims",
-        "coreMeaning": "A purpose or intention; a desired outcome.",
-        "translations": {
-          "en": "Aims",
-          "es": "Objetivos",
-          "ru": "Цели",
-          "zh": "目标",
-          "fr": "Buts",
-          "de": "Ziele",
-          "ja": "目的",
-          "pt": "Metas",
-          "ar": "أهداف",
-          "hi": "लक्ष्य",
-          "ko": "목표",
-          "it": "Obiettivi",
-          "nl": "Doelen",
-          "sv": "Mål",
-          "no": "Mål",
-          "tr": "Amaçlar",
-          "pl": "Cele",
-          "uk": "Цілі",
-          "cs": "Cíle",
-          "fa": "اهداف"
-        }
-      }
-    ],
-    "antonyms": [
-      {
-        "word": "Aimlessness",
-        "coreMeaning": "The quality of having no definite purpose or plan.",
-        "translations": {
-          "en": "Aimlessness",
-          "es": "Falta de rumbo",
-          "ru": "Бесцельность",
-          "zh": "漫无目的",
-          "fr": "Manque de but",
-          "de": "Ziellosigkeit",
-          "ja": "目的のなさ",
-          "pt": "Falta de objetivo",
-          "ar": "بلا هدف",
-          "hi": "उद्देश्यहीनता",
-          "ko": "목표 없음",
-          "it": "Mancanza di scopo",
-          "nl": "Doelloosheid",
-          "sv": "Mållöshet",
-          "no": "Målløshet",
-          "tr": "Amaçsızlık",
-          "pl": "Bezcelowość",
-          "uk": "Безцільність",
-          "cs": "Bezcílnost",
-          "fa": "بی هدفی"
-        }
-      }
-    ],
-    "frequency": 9,
-    "translation": "цели",
-    "imageUrl": "https://images.unsplash.com/photo-1557804506-669a67965ba0",
-    "translations": {
-      "en": "Goals",
-      "ru": "цели",
-      "es": "Metas",
-      "zh": "目标",
-      "fr": "Objectifs",
-      "de": "Ziele",
-      "ja": "目標",
-      "pt": "Metas",
-      "ar": "أهداف",
-      "hi": "लक्ष्य",
-      "ko": "목표",
-      "it": "Obiettivi",
-      "nl": "Doelen",
-      "sv": "Mål",
-      "no": "Mål",
-      "tr": "Hedefler",
-      "pl": "Cele",
-      "uk": "цілі",
-      "cs": "Cíle",
-      "fa": "اهداف"
-    }
-  }
+  {"id": "goals_001","word": "goals","partOfSpeech": "noun","shortExplanation": "aims, purposes or targets","longExplanation": "The object of a person's ambition or effort; an aim or desired result.","links": [{"url": "https://en.wikipedia.org/wiki/Goal","type": "wikipedia","label": "Wikipedia: Goal"}],"pronunciation": "/ɡoʊlz/","examples": [{"sentence": "Setting clear goals is essential for success.","context": "Personal Development"},{"sentence": "The company has set a goal of increasing sales by 20%.","context": "Business"}],"synonyms": [{"word": "Aims","coreMeaning": "A purpose or intention; a desired outcome","translations": {"en": "Aims","es": "Objetivos","ru": "Цели","zh": "目标","fr": "Buts","de": "Ziele","ja": "目的","pt": "Metas","ar": "أهداف","hi": "लक्ष्य","ko": "목표","it": "Obiettivi","nl": "Doelen","sv": "Mål","no": "Mål","tr": "Amaçlar","pl": "Cele","uk": "Цілі","cs": "Cíle","fa": "اهداف"}}],"antonyms": [],"frequency": 9,"translation": "цели","imageUrl": "https://images.unsplash.com/photo-1557804506-669a67965ba0","translations": {"en": "goals","es": "metas","ru": "цели","zh": "目标","fr": "objectifs","de": "Ziele","ja": "目標","pt": "metas","ar": "أهداف","hi": "लक्ष्य","ko": "목표","it": "obiettivi","nl": "doelen","sv": "mål","no": "mål","tr": "hedefler","pl": "cele","uk": "цілі","cs": "cíle","fa": "اهداف"}},
+  {"id": "granted_001","word": "granted","partOfSpeech": "verb","shortExplanation": "gave or allowed someone to do something","longExplanation": "Agree to give or allow (something requested) to.","links": [{"url": "https://en.wiktionary.org/wiki/grant","type": "dictionary","label": "Wiktionary: grant"}],"pronunciation": "/ˈɡrɑːntɪd/","examples": [{"sentence": "The government granted him a visa.","context": "Politics"},{"sentence": "She was granted permission to leave early.","context": "Work"}],"synonyms": [{"word": "Allowed","coreMeaning": "Give the necessary time or opportunity for","translations": {"en": "Allowed","es": "Permitido","ru": "Разрешенный","zh": "允许的","fr": "Autorisé","de": "Erlaubt","ja": "許可された","pt": "Permitido","ar": "سمح","hi": "अनुमति है","ko": "허용 된","it": "Permesso","nl": "Toegestaan","sv": "Tillåten","no": "Tillatt","tr": "İzin verilmiş","pl": "Dozwolony","uk": "Дозволений","cs": "Povoleno","fa": "مجاز"}}],"antonyms": [{"word": "Denied","coreMeaning": "Refuse to give or grant (something requested or desired) to (someone)","translations": {"en": "Denied","es": "Denegado","ru": "Отказанный","zh": "被拒绝的","fr": "Refusé","de": "Verweigert","ja": "拒否された","pt": "Negado","ar": "مرفوض","hi": "अस्वीकृत","ko": "거부 된","it": "Negato","nl": "Geweigerd","sv": "Nekad","no": "Nektet","tr": "Reddedildi","pl": "Odmówiono","uk": "Відмовлено","cs": "Odmítnuto","fa": "رد شد"}}],"frequency": 9,"translation": "предоставленный","imageUrl": "https://images.unsplash.com/photo-1521791136064-7986c2920216","translations": {"en": "granted","es": "concedido","ru": "предоставленный","zh": "授予","fr": "accordé","de": "gewährt","ja": "付与された","pt": "concedido","ar": "ممنوح","hi": "प्रदान किया गया","ko": "부여 된","it": "concesso","nl": "toegekend","sv": "beviljad","no": "innvilget","tr": "verilmiş","pl": "przyznany","uk": "наданий","cs": "uděleno","fa": "اعطا شده"}},
+  {"id": "generated_001","word": "generated","partOfSpeech": "verb","shortExplanation": "caused something to exist","longExplanation": "Produce or create.","links": [{"url": "https://en.wiktionary.org/wiki/generate","type": "dictionary","label": "Wiktionary: generate"}],"pronunciation": "/ˈdʒɛnəreɪtɪd/","examples": [{"sentence": "The new factory will generate a lot of jobs.","context": "Business"},{"sentence": "The wind turbines generate electricity.","context": "Energy"}],"synonyms": [{"word": "Produced","coreMeaning": "Create or make","translations": {"en": "Produced","es": "Producido","ru": "Произведенный","zh": "生产的","fr": "Produit","de": "Produziert","ja": "生産された","pt": "Produzido","ar": "أنتجت","hi": "उत्पादित","ko": "생산 된","it": "Prodotto","nl": "Geproduceerd","sv": "Producerad","no": "Produsert","tr": "Üretilmiş","pl": "Wyprodukowany","uk": "Вироблений","cs": "Vyrobeno","fa": "تولید شده"}}],"antonyms": [],"frequency": 9,"translation": "сгенерированный","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "generated","es": "generado","ru": "сгенерированный","zh": "生成的","fr": "généré","de": "erzeugt","ja": "生成された","pt": "gerado","ar": "ولدت","hi": "उत्पन्न","ko": "생성 된","it": "generato","nl": "gegenereerd","sv": "genererad","no": "generert","tr": "oluşturulan","pl": "wygenerowany","uk": "згенерований","cs": "generováno","fa": "تولید شده"}},
+  {"id": "generation_001","word": "generation","partOfSpeech": "noun","shortExplanation": "people of the same age, or the production of energy","longExplanation": "All of the people born and living at about the same time, regarded collectively. The production of something.","links": [{"url": "https://en.wikipedia.org/wiki/Generation","type": "wikipedia","label": "Wikipedia: Generation"}],"pronunciation": "/ˌdʒɛnəˈreɪʃən/","examples": [{"sentence": "The older generation has a different perspective on life.","context": "Social"},{"sentence": "The company is a leader in power generation.","context": "Energy"}],"synonyms": [{"word": "Age group","coreMeaning": "A group of people of a particular age","translations": {"en": "Age group","es": "Grupo de edad","ru": "Возрастная группа","zh": "年龄组","fr": "Groupe d'âge","de": "Altersgruppe","ja": "年齢層","pt": "Faixa etária","ar": "فئة عمرية","hi": "आयु वर्ग","ko": "연령대","it": "Fascia d'età","nl": "Leeftijdsgroep","sv": "Åldersgrupp","no": "Aldersgruppe","tr": "Yaş grubu","pl": "Grupa wiekowa","uk": "Вікова група","cs": "Věková skupina","fa": "گروه سنی"}}],"antonyms": [],"frequency": 9,"translation": "поколение","imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c","translations": {"en": "generation","es": "generación","ru": "поколение","zh": "一代","fr": "génération","de": "Generation","ja": "世代","pt": "geração","ar": "جيل","hi": "पीढ़ी","ko": "세대","it": "generazione","nl": "generatie","sv": "generation","no": "generasjon","tr": "nesil","pl": "pokolenie","uk": "покоління","cs": "generace","fa": "نسل"}},
+  {"id": "gender_001","word": "gender","partOfSpeech": "noun","shortExplanation": "condition of being male of female","longExplanation": "Either of the two sexes (male and female), especially when considered with reference to social and cultural differences rather than biological ones.","links": [{"url": "https://en.wikipedia.org/wiki/Gender","type": "wikipedia","label": "Wikipedia: Gender"}],"pronunciation": "/ˈdʒɛndər/","examples": [{"sentence": "The company is committed to gender equality.","context": "Social Issues"},{"sentence": "Please state your name, age, and gender.","context": "General"}],"synonyms": [{"word": "Sex","coreMeaning": "Either of the two main categories (male and female) into which humans and most other living things are divided on the basis of their reproductive functions","translations": {"en": "Sex","es": "Sexo","ru": "Пол","zh": "性别","fr": "Sexe","de": "Geschlecht","ja": "性別","pt": "Sexo","ar": "جنس","hi": "लिंग","ko": "성별","it": "Sesso","nl": "Geslacht","sv": "Kön","no": "Kjønn","tr": "Cinsiyet","pl": "Płeć","uk": "Стать","cs": "Pohlaví","fa": "جنسیت"}}],"antonyms": [],"frequency": 9,"translation": "пол","imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c","translations": {"en": "gender","es": "género","ru": "пол","zh": "性别","fr": "genre","de": "Geschlecht","ja": "性別","pt": "gênero","ar": "جنس","hi": "लिंग","ko": "성별","it": "genere","nl": "geslacht","sv": "kön","no": "kjønn","tr": "cinsiyet","pl": "płeć","uk": "стать","cs": "Rod","fa": "جنسیت"}},
+  {"id": "global_001","word": "global","partOfSpeech": "adjective","shortExplanation": "relating to the whole world","longExplanation": "Relating to the whole world; worldwide.","links": [{"url": "https://en.wikipedia.org/wiki/Global","type": "wikipedia","label": "Wikipedia: Global"}],"pronunciation": "/ˈɡloʊbəl/","examples": [{"sentence": "Climate change is a global issue.","context": "Environment"},{"sentence": "The company has a global network of offices.","context": "Business"}],"synonyms": [{"word": "Worldwide","coreMeaning": "Extending or reaching throughout the world","translations": {"en": "Worldwide","es": "Mundial","ru": "Всемирный","zh": "世界范围的","fr": "Mondial","de": "Weltweit","ja": "世界的に","pt": "Mundial","ar": "في جميع أنحاء العالم","hi": "विश्वव्यापी","ko": "전 세계적으로","it": "In tutto il mondo","nl": "Wereldwijd","sv": "Världsomfattande","no": "Verdensomspennende","tr": "Dünya çapında","pl": "Na całym świecie","uk": "Всесвітній","cs": "Celosvětově","fa": "در سراسر جهان"}}],"antonyms": [{"word": "Local","coreMeaning": "Relating or restricted to a particular area or neighborhood","translations": {"en": "Local","es": "Local","ru": "Местный","zh": "本地的","fr": "Local","de": "Lokal","ja": "ローカル","pt": "Local","ar": "محلي","hi": "स्थानीय","ko": "지역의","it": "Locale","nl": "Lokaal","sv": "Lokal","no": "Lokal","tr": "Yerel","pl": "Lokalny","uk": "Місцевий","cs": "Místní","fa": "محلی"}}],"frequency": 10,"translation": "глобальный","imageUrl": "https://images.unsplash.com/photo-1504966981134-816c28f36894","translations": {"en": "global","es": "global","ru": "глобальный","zh": "全球的","fr": "mondial","de": "global","ja": "グローバル","pt": "global","ar": "عالمي","hi": "वैश्विक","ko": "글로벌","it": "globale","nl": "wereldwijd","sv": "global","no": "global","tr": "küresel","pl": "globalny","uk": "глобальний","cs": "globální","fa": "جهانی"}},
+  {"id": "grade_001","word": "grade","partOfSpeech": "noun","shortExplanation": "to classify things or people by quality, rank or level","longExplanation": "A particular level of quality, rank, proficiency, intensity, or value.","links": [{"url": "https://en.wikipedia.org/wiki/Grade","type": "wikipedia","label": "Wikipedia: Grade"}],"pronunciation": "/ɡreɪd/","examples": [{"sentence": "She got a good grade on the exam.","context": "Education"},{"sentence": "This is a high-grade coffee.","context": "Food"}],"synonyms": [{"word": "Level","coreMeaning": "A position on a real or imaginary scale of amount, quantity, extent, or quality","translations": {"en": "Level","es": "Nivel","ru": "Уровень","zh": "水平","fr": "Niveau","de": "Niveau","ja": "レベル","pt": "Nível","ar": "مستوى","hi": "स्तर","ko": "수준","it": "Livello","nl": "Niveau","sv": "Nivå","no": "Nivå","tr": "Seviye","pl": "Poziom","uk": "Рівень","cs": "Úroveň","fa": "سطح"}}],"antonyms": [],"frequency": 9,"translation": "оценка","imageUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40","translations": {"en": "grade","es": "grado","ru": "оценка","zh": "等级","fr": "note","de": "Note","ja": "グレード","pt": "grau","ar": "درجة","hi": "ग्रेड","ko": "학년","it": "voto","nl": "cijfer","sv": "betyg","no": "karakter","tr": "not","pl": "ocena","uk": "оцінка","cs": "známka","fa": "نمره"}},
+  {"id": "guarantee_001","word": "guarantee","partOfSpeech": "noun","shortExplanation": "to promise or make certain","longExplanation": "A formal promise or assurance (typically in writing) that certain conditions will be fulfilled, especially that a product will be repaired or replaced if not of a specified quality and durability.","links": [{"url": "https://en.wikipedia.org/wiki/Guarantee","type": "wikipedia","label": "Wikipedia: Guarantee"}],"pronunciation": "/ˌɡærənˈtiː/","examples": [{"sentence": "The new car comes with a five-year guarantee.","context": "Shopping"},{"sentence": "There is no guarantee of success.","context": "General"}],"synonyms": [{"word": "Warranty","coreMeaning": "A written guarantee, issued to the purchaser of an article by its manufacturer, promising to repair or replace it if necessary within a specified period of time","translations": {"en": "Warranty","es": "Garantía","ru": "Гарантия","zh": "保修单","fr": "Garantie","de": "Garantie","ja": "保証","pt": "Garantia","ar": "ضمان","hi": "वारंटी","ko": "보증","it": "Garanzia","nl": "Garantie","sv": "Garanti","no": "Garanti","tr": "Garanti","pl": "Gwarancja","uk": "Гарантія","cs": "Záruka","fa": "ضمانت"}}],"antonyms": [],"frequency": 9,"translation": "гарантия","imageUrl": "https://images.unsplash.com/photo-1521791136064-7986c2920216","translations": {"en": "guarantee","es": "garantía","ru": "гарантия","zh": "保证","fr": "garantie","de": "Garantie","ja": "保証","pt": "garantia","ar": "ضمان","hi": "गारंटी","ko": "보증","it": "garanzia","nl": "garantie","sv": "garanti","no": "garanti","tr": "garanti","pl": "gwarancja","uk": "гарантія","cs": "záruka","fa": "ضمانت"}},
+  {"id": "guidelines_001","word": "guidelines","partOfSpeech": "noun","shortExplanation": "information to aid or advise people about something","longExplanation": "A general rule, principle, or piece of advice.","links": [{"url": "https://en.wiktionary.org/wiki/guideline","type": "dictionary","label": "Wiktionary: guideline"}],"pronunciation": "/ˈɡaɪdlaɪnz/","examples": [{"sentence": "The government has issued new guidelines for schools.","context": "Education"},{"sentence": "Please follow the guidelines when writing your report.","context": "Work"}],"synonyms": [{"word": "Recommendations","coreMeaning": "A suggestion or proposal as to the best course of action","translations": {"en": "Recommendations","es": "Recomendaciones","ru": "Рекомендации","zh": "建议","fr": "Recommandations","de": "Empfehlungen","ja": "推奨事項","pt": "Recomendações","ar": "توصيات","hi": "सिफारिशें","ko": "권장 사항","it": "Raccomandazioni","nl": "Aanbevelingen","sv": "Rekommendationer","no": "Anbefalinger","tr": "Tavsiyeler","pl": "Zalecenia","uk": "Рекомендації","cs": "Doporučení","fa": "توصیه ها"}}],"antonyms": [],"frequency": 9,"translation": "руководящие принципы","imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a","translations": {"en": "guidelines","es": "directrices","ru": "руководящие принципы","zh": "指导方针","fr": "directives","de": "Richtlinien","ja": "ガイドライン","pt": "diretrizes","ar": "القواعد الارشادية","hi": "दिशानिर्देश","ko": "가이드 라인","it": "linee guida","nl": "richtlijnen","sv": "riktlinjer","no": "retningslinjer","tr": "kurallar","pl": "wytyczne","uk": "керівні принципи","cs": "pokyny","fa": "رهنمودها"}}
 ]

@@ -1,108 +1,16 @@
+
 [
-  {
-    "id": "labor_001",
-    "word": "Labor",
-    "partOfSpeech": "noun",
-    "shortExplanation": "Practical work which involves physical effort.",
-    "longExplanation": "Labor refers to work, especially physical work. It can also refer to the workforce, the body of people who do such work.",
-    "links": [
-      {
-        "url": "https://en.wikipedia.org/wiki/Labour",
-        "type": "wikipedia",
-        "label": "Wikipedia: Labour"
-      }
-    ],
-    "pronunciation": "/ˈleɪbər/",
-    "examples": [
-      {
-        "sentence": "The construction of the new bridge will require a lot of manual labor.",
-        "context": "Construction"
-      },
-      {
-        "sentence": "The company has a good relationship with organized labor.",
-        "context": "Business"
-      }
-    ],
-    "synonyms": [
-      {
-        "word": "Work",
-        "coreMeaning": "Activity involving mental or physical effort done in order to achieve a purpose or result.",
-        "translations": {
-          "en": "Work",
-          "es": "Trabajo",
-          "ru": "Работа",
-          "zh": "工作",
-          "fr": "Travail",
-          "de": "Arbeit",
-          "ja": "仕事",
-          "pt": "Trabalho",
-          "ar": "عمل",
-          "hi": "काम",
-          "ko": "일",
-          "it": "Lavoro",
-          "nl": "Werk",
-          "sv": "Arbete",
-          "no": "Arbeid",
-          "tr": "İş",
-          "pl": "Praca",
-          "uk": "Робота",
-          "cs": "Práce",
-          "fa": "کار"
-        }
-      }
-    ],
-    "antonyms": [
-      {
-        "word": "Rest",
-        "coreMeaning": "Cease work or movement in order to relax, refresh oneself, or recover strength.",
-        "translations": {
-          "en": "Rest",
-          "es": "Descanso",
-          "ru": "Отдых",
-          "zh": "休息",
-          "fr": "Repos",
-          "de": "Ruhe",
-          "ja": "休息",
-          "pt": "Descanso",
-          "ar": "راحة",
-          "hi": "आराम",
-          "ko": "휴식",
-          "it": "Riposo",
-          "nl": "Rust",
-          "sv": "Vila",
-          "no": "Hvile",
-          "tr": "Dinlenme",
-          "pl": "Odpoczynek",
-          "uk": "Відпочинок",
-          "cs": "Odpočinek",
-          "fa": "استراحت"
-        }
-      }
-    ],
-    "frequency": 8,
-    "translation": "труд",
-    "imageUrl": "https://images.unsplash.com/photo-1498625219463-8a3c8e2d4c00",
-    "translations": {
-      "en": "Labor",
-      "ru": "труд",
-      "es": "Trabajo",
-      "zh": "劳动",
-      "fr": "Travail",
-      "de": "Arbeit",
-      "ja": "労働",
-      "pt": "Trabalho",
-      "ar": "عمل",
-      "hi": "श्रम",
-      "ko": "노동",
-      "it": "Lavoro",
-      "nl": "Arbeid",
-      "sv": "Arbete",
-      "no": "Arbeid",
-      "tr": "Emek",
-      "pl": "Praca",
-      "uk": "праця",
-      "cs": "Práce",
-      "fa": "کار"
-    }
-  }
+  {"id": "labor_001","word": "labor","partOfSpeech": "noun","shortExplanation": "practical work which involves physical effort","longExplanation": "Work, especially physical work.","links": [{"url": "https://en.wikipedia.org/wiki/Labour","type": "wikipedia","label": "Wikipedia: Labour"}],"pronunciation": "/ˈleɪbər/","examples": [{"sentence": "The construction of the new bridge will require a lot of manual labor.","context": "Construction"},{"sentence": "The company has a good relationship with organized labor.","context": "Business"}],"synonyms": [{"word": "Work","coreMeaning": "Activity involving mental or physical effort done in order to achieve a purpose or result","translations": {"en": "Work","es": "Trabajo","ru": "Работа","zh": "工作","fr": "Travail","de": "Arbeit","ja": "仕事","pt": "Trabalho","ar": "عمل","hi": "काम","ko": "일","it": "Lavoro","nl": "Werk","sv": "Arbete","no": "Arbeid","tr": "İş","pl": "Praca","uk": "Робота","cs": "Práce","fa": "کار"}}],"antonyms": [{"word": "Rest","coreMeaning": "Cease work or movement in order to relax, refresh oneself, or recover strength","translations": {"en": "Rest","es": "Descanso","ru": "Отдых","zh": "休息","fr": "Repos","de": "Ruhe","ja": "休息","pt": "Descanso","ar": "راحة","hi": "आराम","ko": "휴식","it": "Riposo","nl": "Rust","sv": "Vila","no": "Hvile","tr": "Dinlenme","pl": "Odpoczynek","uk": "Відпочинок","cs": "Odpočinek","fa": "استراحت"}}],"frequency": 8,"translation": "труд","imageUrl": "https://images.unsplash.com/photo-1498625219463-8a3c8e2d4c00","translations": {"en": "labor","es": "trabajo","ru": "труд","zh": "劳动","fr": "travail","de": "Arbeit","ja": "労働","pt": "trabalho","ar": "عمل","hi": "श्रम","ko": "노동","it": "lavoro","nl": "arbeid","sv": "arbete","no": "arbeid","tr": "emek","pl": "praca","uk": "праця","cs": "práce","fa": "کار"}},
+  {"id": "legal_001","word": "legal","partOfSpeech": "adjective","shortExplanation": "related to or allowed by law","longExplanation": "Relating to the law. Permitted by law.","links": [{"url": "https://en.wikipedia.org/wiki/Legal","type": "wikipedia","label": "Wikipedia: Legal"}],"pronunciation": "/ˈliːɡəl/","examples": [{"sentence": "He is seeking legal advice.","context": "Law"},{"sentence": "It is not legal to drive without a license.","context": "General"}],"synonyms": [{"word": "Lawful","coreMeaning": "Conforming to, permitted by, or recognized by law or rules","translations": {"en": "Lawful","es": "Legal","ru": "Законный","zh": "合法的","fr": "Légal","de": "Rechtmäßig","ja": "合法的な","pt": "Legal","ar": "قانوني","hi": "कानूनी","ko": "합법적 인","it": "Legale","nl": "Wettig","sv": "Laglig","no": "Lovlig","tr": "Yasal","pl": "Zgodny z prawem","uk": "Законний","cs": "Zákonný","fa": "قانونی"}}],"antonyms": [{"word": "Illegal","coreMeaning": "Contrary to or forbidden by law, especially criminal law","translations": {"en": "Illegal","es": "Ilegal","ru": "Незаконный","zh": "非法的","fr": "Illégal","de": "Illegal","ja": "違法","pt": "Ilegal","ar": "غير شرعي","hi": "अवैध","ko": "불법의","it": "Illegale","nl": "Illegaal","sv": "Olaglig","no": "Ulovlig","tr": "Yasadışı","pl": "Nielegalny","uk": "Незаконний","cs": "Nelegální","fa": "غیرقانونی"}}],"frequency": 10,"translation": "юридический","imageUrl": "https://images.unsplash.com/photo-1521791136064-7986c2920216","translations": {"en": "legal","es": "legal","ru": "юридический","zh": "合法的","fr": "légal","de": "legal","ja": "法的な","pt": "legal","ar": "قانوني","hi": "कानूनी","ko": "법적인","it": "legale","nl": "legaal","sv": "laglig","no": "lovlig","tr": "yasal","pl": "prawny","uk": "юридичний","cs": "legální","fa": "قانونی"}},
+  {"id": "legislation_001","word": "legislation","partOfSpeech": "noun","shortExplanation": "a law or laws created by a government","longExplanation": "Laws, considered collectively.","links": [{"url": "https://en.wikipedia.org/wiki/Legislation","type": "wikipedia","label": "Wikipedia: Legislation"}],"pronunciation": "/ˌlɛdʒɪsˈleɪʃən/","examples": [{"sentence": "The government has passed new legislation to protect the environment.","context": "Politics"},{"sentence": "The legislation will be debated in parliament next week.","context": "Law"}],"synonyms": [{"word": "Laws","coreMeaning": "The system of rules which a particular country or community recognizes as regulating the actions of its members","translations": {"en": "Laws","es": "Leyes","ru": "Законы","zh": "法律","fr": "Lois","de": "Gesetze","ja": "法律","pt": "Leis","ar": "قوانين","hi": "कानून","ko": "법률","it": "Leggi","nl": "Wetten","sv": "Lagar","no": "Lover","tr": "Yasalar","pl": "Prawa","uk": "Закони","cs": "Zákony","fa": "قوانین"}}],"antonyms": [],"frequency": 9,"translation": "законодательство","imageUrl": "https://images.unsplash.com/photo-1521791136064-7986c2920216","translations": {"en": "legislation","es": "legislación","ru": "законодательство","zh": "立法","fr": "législation","de": "Gesetzgebung","ja": "立法","pt": "legislação","ar": "تشريع","hi": "विधान","ko": "입법","it": "legislazione","nl": "wetgeving","sv": "lagstiftning","no": "lovgivning","tr": "mevzuat","pl": "ustawodawstwo","uk": "законодавство","cs": "legislativa","fa": "قانون گذاری"}},
+  {"id": "layer_001","word": "layer","partOfSpeech": "noun","shortExplanation": "a distinct band, thickness, or level of something","longExplanation": "A sheet, quantity, or thickness of material, typically one of several, covering a surface or body.","links": [{"url": "https://en.wikipedia.org/wiki/Layer","type": "wikipedia","label": "Wikipedia: Layer"}],"pronunciation": "/ˈleɪər/","examples": [{"sentence": "The cake has a layer of chocolate frosting.","context": "Food"},{"sentence": "The Earth's atmosphere is made up of several layers.","context": "Science"}],"synonyms": [{"word": "Stratum","coreMeaning": "A layer or a series of layers of rock in the ground","translations": {"en": "Stratum","es": "Estrato","ru": "Слой","zh": "地层","fr": "Strate","de": "Schicht","ja": "層","pt": "Estrato","ar": "طبقة","hi": "परत","ko": "지층","it": "Strato","nl": "Laag","sv": "Skikt","no": "Lag","tr": "Katman","pl": "Warstwa","uk": "Шар","cs": "Vrstva","fa": "لایه"}}],"antonyms": [],"frequency": 8,"translation": "слой","imageUrl": "https://images.unsplash.com/photo-1504966981134-816c28f36894","translations": {"en": "layer","es": "capa","ru": "слой","zh": "层","fr": "couche","de": "Schicht","ja": "層","pt": "camada","ar": "طبقة","hi": "परत","ko": "층","it": "strato","nl": "laag","sv": "lager","no": "lag","tr": "katman","pl": "warstwa","uk": "шар","cs": "vrstva","fa": "لایه"}},
+  {"id": "link_001","word": "link","partOfSpeech": "noun","shortExplanation": "a connection between two things","longExplanation": "A relationship between two things or situations, especially where one affects the other.","links": [{"url": "https://en.wikipedia.org/wiki/Link","type": "wikipedia","label": "Wikipedia: Link"}],"pronunciation": "/lɪŋk/","examples": [{"sentence": "There is a strong link between smoking and heart disease.","context": "Health"},{"sentence": "Click on the link to visit the website.","context": "Technology"}],"synonyms": [{"word": "Connection","coreMeaning": "A relationship in which a person, thing, or idea is linked or associated with something else","translations": {"en": "Connection","es": "Conexión","ru": "Связь","zh": "联系","fr": "Connexion","de": "Verbindung","ja": "接続","pt": "Conexão","ar": "صلة","hi": "संबंध","ko": "연결","it": "Connessione","nl": "Verbinding","sv": "Anslutning","no": "Forbindelse","tr": "Bağlantı","pl": "Połączenie","uk": "Зв'язок","cs": "Spojení","fa": "ارتباط"}}],"antonyms": [],"frequency": 10,"translation": "ссылка","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "link","es": "enlace","ru": "ссылка","zh": "链接","fr": "lien","de": "Link","ja": "リンク","pt": "link","ar": "رابط","hi": "लिंक","ko": "링크","it": "collegamento","nl": "link","sv": "länk","no": "lenke","tr": "bağlantı","pl": "link","uk": "посилання","cs": "odkaz","fa": "ارتباط دادن"}},
+  {"id": "location_001","word": "location","partOfSpeech": "noun","shortExplanation": "place, position or coordinates of something","longExplanation": "A particular place or position.","links": [{"url": "https://en.wikipedia.org/wiki/Location","type": "wikipedia","label": "Wikipedia: Location"}],"pronunciation": "/loʊˈkeɪʃən/","examples": [{"sentence": "The new store is in a great location.","context": "Business"},{"sentence": "Can you show me your location on the map?","context": "Geography"}],"synonyms": [{"word": "Place","coreMeaning": "A particular position or point in space","translations": {"en": "Place","es": "Lugar","ru": "Место","zh": "地方","fr": "Lieu","de": "Ort","ja": "場所","pt": "Lugar","ar": "مكان","hi": "जगह","ko": "장소","it": "Luogo","nl": "Plaats","sv": "Plats","no": "Sted","tr": "Yer","pl": "Miejsce","uk": "Місце","cs": "Místo","fa": "محل"}}],"antonyms": [],"frequency": 10,"translation": "местоположение","imageUrl": "https://images.unsplash.com/photo-1504966981134-816c28f36894","translations": {"en": "location","es": "ubicación","ru": "местоположение","zh": "位置","fr": "emplacement","de": "Standort","ja": "場所","pt": "localização","ar": "موقع","hi": "स्थान","ko": "위치","it": "posizione","nl": "locatie","sv": "plats","no": "plassering","tr": "konum","pl": "lokalizacja","uk": "розташування","cs": "umístění","fa": "مکان"}},
+  {"id": "label_001","word": "label","partOfSpeech": "noun","shortExplanation": "information about the object it is fixed to","longExplanation": "A small piece of paper, fabric, plastic, or similar material attached to an object and giving information about it.","links": [{"url": "https://en.wikipedia.org/wiki/Label","type": "wikipedia","label": "Wikipedia: Label"}],"pronunciation": "/ˈleɪbəl/","examples": [{"sentence": "Please read the label on the bottle.","context": "General"},{"sentence": "The clothing label shows the washing instructions.","context": "Fashion"}],"synonyms": [{"word": "Tag","coreMeaning": "A label attached to someone or something for the purpose of identification or to give other information","translations": {"en": "Tag","es": "Etiqueta","ru": "Тег","zh": "标签","fr": "Étiquette","de": "Etikett","ja": "タグ","pt": "Etiqueta","ar": "بطاقة","hi": "टैग","ko": "꼬리표","it": "Etichetta","nl": "Label","sv": "Etikett","no": "Merke","tr": "Etiket","pl": "Etykieta","uk": "Тег","cs": "Štítek","fa": "برچسب"}}],"antonyms": [],"frequency": 9,"translation": "этикетка","imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a","translations": {"en": "label","es": "etiqueta","ru": "этикетка","zh": "标签","fr": "étiquette","de": "Etikett","ja": "ラベル","pt": "rótulo","ar": "ملصق","hi": "लेबल","ko": "라벨","it": "etichetta","nl": "label","sv": "etikett","no": "etikett","tr": "etiket","pl": "etykieta","uk": "етикетка","cs": "štít","fa": "برچسب"}},
+  {"id": "liberal_001","word": "liberal","partOfSpeech": "adjective","shortExplanation": "open minded and tolerant of others, or generous","longExplanation": "Willing to respect or accept behavior or opinions different from one's own; open to new ideas. Relating to or denoting a political and social philosophy that promotes individual rights, civil liberties, democracy, and free enterprise.","links": [{"url": "https://en.wikipedia.org/wiki/Liberalism","type": "wikipedia","label": "Wikipedia: Liberalism"}],"pronunciation": "/ˈlɪbərəl/","examples": [{"sentence": "She has a liberal attitude towards new ideas.","context": "Social"},{"sentence": "He is a member of the liberal party.","context": "Politics"}],"synonyms": [{"word": "Tolerant","coreMeaning": "Showing willingness to allow the existence of opinions or behavior that one does not necessarily agree with","translations": {"en": "Tolerant","es": "Tolerante","ru": "Терпимый","zh": "宽容的","fr": "Tolérant","de": "Tolerant","ja": "寛容な","pt": "Tolerante","ar": "متسامح","hi": "सहिष्णु","ko": "관대 한","it": "Tollerante","nl": "Tolerant","sv": "Tolerant","no": "Tolerant","tr": "Hoşgörülü","pl": "Tolerancyjny","uk": "Толерантний","cs": "Tolerantní","fa": "بردبار"}}],"antonyms": [{"word": "Conservative","coreMeaning": "Averse to change or innovation and holding traditional values","translations": {"en": "Conservative","es": "Conservador","ru": "Консервативный","zh": "保守的","fr": "Conservateur","de": "Konservativ","ja": "保守的な","pt": "Conservador","ar": "محافظ","hi": "रूढ़िवादी","ko": "보수적 인","it": "Conservatore","nl": "Conservatief","sv": "Konservativ","no": "Konservativ","tr": "Muhafazakar","pl": "Konserwatywny","uk": "Консервативний","cs": "Konzervativní","fa": "محافظه کار"}}],"frequency": 8,"translation": "либеральный","imageUrl": "https://images.unsplash.com/photo-1521791136064-7986c2920216","translations": {"en": "liberal","es": "liberal","ru": "либеральный","zh": "自由的","fr": "libéral","de": "liberal","ja": "リベラル","pt": "liberal","ar": "ليبرالي","hi": "उदार","ko": "진보적 인","it": "liberale","nl": "liberaal","sv": "liberal","no": "liberal","tr": "liberal","pl": "liberalny","uk": "ліберальний","cs": "liberální","fa": "آزادیخواه"}},
+  {"id": "license_001","word": "license","partOfSpeech": "noun","shortExplanation": "a legal document giving permission to do or own","longExplanation": "A permit from an authority to own or use something, do a particular thing, or carry on a trade.","links": [{"url": "https://en.wikipedia.org/wiki/License","type": "wikipedia","label": "Wikipedia: License"}],"pronunciation": "/ˈlaɪsəns/","examples": [{"sentence": "Do you have a driver's license?","context": "General"},{"sentence": "The company was granted a license to operate in the country.","context": "Business"}],"synonyms": [{"word": "Permit","coreMeaning": "An official document giving someone authorization to do something","translations": {"en": "Permit","es": "Permiso","ru": "Разрешение","zh": "许可证","fr": "Permis","de": "Genehmigung","ja": "許可","pt": "Licença","ar": "تصريح","hi": "परमिट","ko": "허가","it": "Permesso","nl": "Vergunning","sv": "Tillstånd","no": "Tillatelse","tr": "İzin","pl": "Pozwolenie","uk": "Дозвіл","cs": "Povolení","fa": "مجوز"}}],"antonyms": [],"frequency": 9,"translation": "лицензия","imageUrl": "https://images.unsplash.com/photo-1521791136064-7986c2920216","translations": {"en": "license","es": "licencia","ru": "лицензия","zh": "执照","fr": "licence","de": "Lizenz","ja": "ライセンス","pt": "licença","ar": "رخصة","hi": "लाइसेंस","ko": "라이센스","it": "licenza","nl": "licentie","sv": "licens","no": "lisens","tr": "lisans","pl": "licencja","uk": "ліцензія","cs": "licence","fa": "مجوز"}},
+  {"id": "logic_001","word": "logic","partOfSpeech": "noun","shortExplanation": "a way of thinking based on reason","longExplanation": "Reasoning conducted or assessed according to strict principles of validity.","links": [{"url": "https://en.wikipedia.org/wiki/Logic","type": "wikipedia","label": "Wikipedia: Logic"}],"pronunciation": "/ˈlɒdʒɪk/","examples": [{"sentence": "There is a certain logic to his argument.","context": "Communication"},{"sentence": "He is a student of logic and philosophy.","context": "Academia"}],"synonyms": [{"word": "Reasoning","coreMeaning": "The action of thinking about something in a logical, sensible way","translations": {"en": "Reasoning","es": "Razonamiento","ru": "Рассуждение","zh": "推理","fr": "Raisonnement","de": "Argumentation","ja": "推論","pt": "Raciocínio","ar": "منطق","hi": "तर्क","ko": "추론","it": "Ragionamento","nl": "Redenering","sv": "Resonemang","no": "Resonnement","tr": "Mantık","pl": "Rozumowanie","uk": "Міркування","cs": "Úvaha","fa": "استدلال"}}],"antonyms": [],"frequency": 8,"translation": "логика","imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475","translations": {"en": "logic","es": "lógica","ru": "логика","zh": "逻辑","fr": "logique","de": "Logik","ja": "論理","pt": "lógica","ar": "منطق","hi": "तर्क","ko": "논리","it": "logica","nl": "logica","sv": "logik","no": "logikk","tr": "mantık","pl": "logika","uk": "логіка","cs": "logika","fa": "منطق"}},
+  {"id": "lecture_001","word": "lecture","partOfSpeech": "noun","shortExplanation": "an educational speech before an audience or class","longExplanation": "An educational talk to an audience, especially one of students in a university or college.","links": [{"url": "https://en.wikipedia.org/wiki/Lecture","type": "wikipedia","label": "Wikipedia: Lecture"}],"pronunciation": "/ˈlɛktʃər/","examples": [{"sentence": "The professor gave a lecture on modern history.","context": "Education"},{"sentence": "I attended a lecture on climate change.","context": "General"}],"synonyms": [{"word": "Talk","coreMeaning": "A formal address or discourse","translations": {"en": "Talk","es": "Charla","ru": "Разговор","zh": "谈话","fr": "Discours","de": "Vortrag","ja": "講演","pt": "Palestra","ar": "حديث","hi": "भाषण","ko": "강연","it": "Discorso","nl": "Lezing","sv": "Föreläsning","no": "Foredrag","tr": "Konuşma","pl": "Wykład","uk": "Розмова","cs": "Přednáška","fa": "صحبت"}}],"antonyms": [],"frequency": 8,"translation": "лекция","imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644","translations": {"en": "lecture","es": "conferencia","ru": "лекция","zh": "讲座","fr": "conférence","de": "Vorlesung","ja": "講演","pt": "palestra","ar": "محاضرة","hi": "व्याख्यान","ko": "강의","it": "lezione","nl": "lezing","sv": "föreläsning","no": "forelesning","tr": "ders","pl": "wykład","uk": "лекція","cs": "přednáška","fa": "سخنرانی"}},
+  {"id": "levy_001","word": "levy","partOfSpeech": "verb","shortExplanation": "to impose or collect a tax","longExplanation": "Impose (a tax, fee, or fine).","links": [{"url": "https://en.wiktionary.org/wiki/levy","type": "dictionary","label": "Wiktionary: levy"}],"pronunciation": "/ˈlɛvi/","examples": [{"sentence": "The government decided to levy a tax on sugary drinks.","context": "Politics"},{"sentence": "A fine was levied against the company for polluting the river.","context": "Law"}],"synonyms": [{"word": "Impose","coreMeaning": "Force (something unwelcome or unfamiliar) to be accepted or put in place","translations": {"en": "Impose","es": "Imponer","ru": "Налагать","zh": "强加","fr": "Imposer","de": "Auferlegen","ja": "課す","pt": "Impor","ar": "يفرض","hi": "लगाना","ko": "부과하다","it": "Imporre","nl": "Opleggen","sv": "Införa","no": "Pålegge","tr": "Uygulamak","pl": "Nakładać","uk": "Накладати","cs": "Uložit","fa": "تحمیل کردن"}}],"antonyms": [],"frequency": 6,"translation": "взимать","imageUrl": "https://images.unsplash.com/photo-1606857521015-7f9fcf423740","translations": {"en": "levy","es": "impuesto","ru": "взимать","zh": "征收","fr": "prélèvement","de": "erheben","ja": "課税","pt": "imposto","ar": "ضريبة","hi": "लेवी","ko": "징수","it": "imposta","nl": "heffing","sv": "avgift","no": "avgift","tr": "vergi","pl": "pobierać","uk": "стягувати","cs": "odvod","fa": "مالیات"}},
+  {"id": "likewise_001","word": "likewise","partOfSpeech": "adverb","shortExplanation": "similarly, also","longExplanation": "In the same way; also. Used to introduce a point similar or related to one just made.","links": [{"url": "https://en.wiktionary.org/wiki/likewise","type": "dictionary","label": "Wiktionary: likewise"}],"pronunciation": "/ˈlaɪkwaɪz/","examples": [{"sentence": "He is a talented musician, and his brother is likewise gifted.","context": "General"},{"sentence": "She greeted him, and he responded likewise.","context": "Social"}],"synonyms": [{"word": "Similarly","coreMeaning": "In a similar way","translations": {"en": "Similarly","es": "Similarmente","ru": "Аналогично","zh": "同样地","fr": "De même","de": "Ähnlich","ja": "同様に","pt": "Da mesma forma","ar": "بالمثل","hi": "उसी प्रकार","ko": "마찬가지로","it": "Allo stesso modo","nl": "Evenzo","sv": "På samma sätt","no": "På samme måte","tr": "Benzer şekilde","pl": "Podobnie","uk": "Аналогічно","cs": "Podobně","fa": "به همین ترتیب"}}],"antonyms": [],"frequency": 7,"translation": "также","imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c","translations": {"en": "likewise","es": "igualmente","ru": "также","zh": "同样地","fr": "de même","de": "ebenfalls","ja": "同様に","pt": "igualmente","ar": "بالمثل","hi": "उसी प्रकार","ko": "마찬가지로","it": "allo stesso modo","nl": "evenzo","sv": "likaså","no": "likeledes","tr": "aynı şekilde","pl": "podobnie","uk": "так само","cs": "stejně tak","fa": "همچنین"}}
 ]
